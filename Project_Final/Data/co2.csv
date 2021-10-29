@@ -1,0 +1,3333 @@
+Country,Year,Co2_Emission,Continent
+Albania,1990,5620.0,Europe
+United Arab Emirates,1990,55200.0,Asia
+Argentina,1990,105000.0,South America
+Armenia,1990,13700.0,Europe
+Australia,1990,235000.0,Oceania
+Austria,1990,82600.0,Europe
+Azerbaijan,1990,32400.0,Europe
+Belgium,1990,147000.0,Europe
+Benin,1990,939.0,Africa
+Burkina Faso,1990,821.0,Africa
+Bangladesh,1990,17400.0,Asia
+Bulgaria,1990,56100.0,Europe
+Bahrain,1990,11000.0,Asia
+Belarus,1990,28700.0,Europe
+Bolivia,1990,5190.0,South America
+Brazil,1990,234000.0,South America
+Brunei,1990,3210.0,Asia
+Botswana,1990,2700.0,Africa
+Canada,1990,474000.0,North America
+Switzerland,1990,79000.0,Europe
+Chile,1990,30800.0,South America
+China,1990,2290000.0,Asia
+Cote d'Ivoire,1990,5070.0,Africa
+Cameroon,1990,1330.0,Africa
+Colombia,1990,62700.0,South America
+Costa Rica,1990,4920.0,North America
+Cyprus,1990,5790.0,Europe
+Czech Republic,1990,163000.0,Europe
+Germany,1990,1160000.0,Europe
+Denmark,1990,57500.0,Europe
+Dominican Republic,1990,9660.0,North America
+Ecuador,1990,17100.0,South America
+Egypt,1990,84500.0,Africa
+Spain,1990,262000.0,Europe
+Estonia,1990,31800.0,Europe
+Ethiopia,1990,3730.0,Africa
+Finland,1990,69100.0,Europe
+France,1990,486000.0,Europe
+United Kingdom,1990,658000.0,Europe
+Georgia,1990,16900.0,Europe
+Ghana,1990,4680.0,Africa
+Guinea,1990,1000.0,Africa
+Greece,1990,96600.0,Europe
+Guatemala,1990,6080.0,North America
+"Hong Kong, China",1990,77100.0,Asia
+Honduras,1990,2930.0,North America
+Croatia,1990,20600.0,Europe
+Hungary,1990,87900.0,Europe
+Indonesia,1990,151000.0,Asia
+India,1990,616000.0,Asia
+Ireland,1990,40800.0,Europe
+Iran,1990,180000.0,Asia
+Israel,1990,47900.0,Asia
+Italy,1990,555000.0,Europe
+Jamaica,1990,6880.0,North America
+Jordan,1990,17000.0,Asia
+Japan,1990,1310000.0,Asia
+Kazakhstan,1990,175000.0,Asia
+Kenya,1990,7740.0,Africa
+Kyrgyz Republic,1990,18000.0,Asia
+Cambodia,1990,1790.0,Asia
+South Korea,1990,318000.0,Asia
+Kuwait,1990,36100.0,Asia
+Lao,1990,767.0,Asia
+Sri Lanka,1990,6020.0,Asia
+Lithuania,1990,42600.0,Europe
+Luxembourg,1990,11900.0,Europe
+Latvia,1990,22600.0,Europe
+Morocco,1990,32200.000000000004,Africa
+Madagascar,1990,1390.0,Africa
+Mexico,1990,322000.0,North America
+Malta,1990,2670.0,Europe
+Mongolia,1990,9060.0,Asia
+Mozambique,1990,3400.0,Africa
+Mauritius,1990,2760.0,Africa
+Malawi,1990,1570.0,Africa
+Malaysia,1990,64000.0,Asia
+Namibia,1990,0.0,Africa
+Nigeria,1990,32800.0,Africa
+Nicaragua,1990,2460.0,North America
+Netherlands,1990,209000.0,Europe
+Norway,1990,37200.0,Europe
+Nepal,1990,1170.0,Asia
+New Zealand,1990,26600.0,Oceania
+Oman,1990,11300.0,Asia
+Pakistan,1990,72900.0,Asia
+Panama,1990,2540.0,North America
+Peru,1990,22500.0,South America
+Philippines,1990,57600.0,Asia
+Poland,1990,362000.0,Europe
+Portugal,1990,53600.0,Europe
+Paraguay,1990,3510.0,South America
+Qatar,1990,10300.0,Asia
+Romania,1990,165000.0,Europe
+Russia,1990,2430000.0,Asia
+Rwanda,1990,524.0,Africa
+Saudi Arabia,1990,147000.0,Asia
+Senegal,1990,3210.0,Africa
+Singapore,1990,67000.0,Asia
+El Salvador,1990,3780.0,North America
+Slovak Republic,1990,76200.0,Europe
+Slovenia,1990,15500.0,Europe
+Sweden,1990,78000.0,Europe
+Togo,1990,1250.0,Africa
+Thailand,1990,109000.0,Asia
+Trinidad and Tobago,1990,13100.0,North America
+Tunisia,1990,13800.0,Africa
+Turkey,1990,224000.0,Asia
+Taiwan,1990,163000.0,Asia
+Tanzania,1990,3430.0,Africa
+Uganda,1990,1520.0,Africa
+Ukraine,1990,390000.0,Europe
+Uruguay,1990,5090.0,South America
+United States,1990,5100000.0,North America
+Venezuela,1990,86100.0,South America
+Vietnam,1990,22500.0,Asia
+South Africa,1990,206000.0,Africa
+Zambia,1990,3560.0,Africa
+Zimbabwe,1990,20100.0,Africa
+Albania,1991,4570.0,Europe
+United Arab Emirates,1991,61000.0,Asia
+Argentina,1991,113000.0,South America
+Armenia,1991,13400.0,Europe
+Australia,1991,233000.0,Oceania
+Austria,1991,87500.0,Europe
+Azerbaijan,1991,29900.0,Europe
+Belgium,1991,157000.0,Europe
+Benin,1991,1060.0,Africa
+Burkina Faso,1991,861.0,Africa
+Bangladesh,1991,18800.0,Asia
+Bulgaria,1991,49900.0,Europe
+Bahrain,1991,11300.0,Asia
+Belarus,1991,26500.0,Europe
+Bolivia,1991,5370.0,South America
+Brazil,1991,245000.0,South America
+Brunei,1991,2940.0,Asia
+Botswana,1991,2640.0,Africa
+Canada,1991,470000.0,North America
+Switzerland,1991,83300.0,Europe
+Chile,1991,29500.0,South America
+China,1991,2400000.0,Asia
+Cote d'Ivoire,1991,5070.0,Africa
+Cameroon,1991,890.0,Africa
+Colombia,1991,61800.0,South America
+Costa Rica,1991,5250.0,North America
+Cyprus,1991,6270.0,Europe
+Czech Republic,1991,152000.0,Europe
+Germany,1991,1150000.0,Europe
+Denmark,1991,65200.0,Europe
+Dominican Republic,1991,10400.0,North America
+Ecuador,1991,16500.0,South America
+Egypt,1991,88200.0,Africa
+Spain,1991,275000.0,Europe
+Estonia,1991,32500.0,Europe
+Ethiopia,1991,3770.0,Africa
+Finland,1991,77200.0,Europe
+France,1991,522000.0,Europe
+United Kingdom,1991,675000.0,Europe
+Georgia,1991,15200.0,Europe
+Ghana,1991,5140.0,Africa
+Guinea,1991,1030.0,Africa
+Greece,1991,97100.0,Europe
+Guatemala,1991,6380.0,North America
+"Hong Kong, China",1991,84100.0,Asia
+Honduras,1991,3130.0,North America
+Croatia,1991,16000.0,Europe
+Hungary,1991,88300.0,Europe
+Indonesia,1991,179000.0,Asia
+India,1991,653000.0,Asia
+Ireland,1991,41800.0,Europe
+Iran,1991,193000.0,Asia
+Israel,1991,49300.0,Asia
+Italy,1991,571000.0,Europe
+Jamaica,1991,6980.0,North America
+Jordan,1991,15600.0,Asia
+Japan,1991,1350000.0,Asia
+Kazakhstan,1991,167000.0,Asia
+Kenya,1991,7190.0,Africa
+Kyrgyz Republic,1991,17700.0,Asia
+Cambodia,1991,1860.0,Asia
+South Korea,1991,345000.0,Asia
+Kuwait,1991,22400.0,Asia
+Lao,1991,827.0,Asia
+Sri Lanka,1991,6530.0,Asia
+Lithuania,1991,51400.0,Europe
+Luxembourg,1991,12500.0,Europe
+Latvia,1991,22200.0,Europe
+Morocco,1991,34400.0,Africa
+Madagascar,1991,1490.0,Africa
+Mexico,1991,336000.0,North America
+Malta,1991,2890.0,Europe
+Mongolia,1991,11100.0,Asia
+Mozambique,1991,3440.0,Africa
+Mauritius,1991,2900.0,Africa
+Malawi,1991,1640.0,Africa
+Malaysia,1991,73000.0,Asia
+Namibia,1991,1060.0,Africa
+Nigeria,1991,36500.0,Africa
+Nicaragua,1991,2520.0,North America
+Netherlands,1991,221000.0,Europe
+Norway,1991,38700.0,Europe
+Nepal,1991,1520.0,Asia
+New Zealand,1991,27100.0,Oceania
+Oman,1991,11900.0,Asia
+Pakistan,1991,71700.0,Asia
+Panama,1991,2570.0,North America
+Peru,1991,21900.0,South America
+Philippines,1991,62300.0,Asia
+Poland,1991,364000.0,Europe
+Portugal,1991,56200.0,Europe
+Paraguay,1991,3520.0,South America
+Qatar,1991,14800.0,Asia
+Romania,1991,142000.0,Europe
+Russia,1991,2029999.9999999998,Asia
+Rwanda,1991,472.0,Africa
+Saudi Arabia,1991,209000.0,Asia
+Senegal,1991,3430.0,Africa
+Singapore,1991,72600.0,Asia
+El Salvador,1991,4490.0,North America
+Slovak Republic,1991,65400.00000000001,Europe
+Slovenia,1991,16000.0,Europe
+Sweden,1991,82100.0,Europe
+Togo,1991,1330.0,Africa
+Thailand,1991,125000.0,Asia
+Trinidad and Tobago,1991,13200.0,North America
+Tunisia,1991,16800.0,Africa
+Turkey,1991,229000.0,Asia
+Taiwan,1991,181000.0,Asia
+Tanzania,1991,3640.0,Africa
+Uganda,1991,1550.0,Africa
+Ukraine,1991,362000.0,Europe
+Uruguay,1991,5580.0,South America
+United States,1991,5070000.0,North America
+Venezuela,1991,85000.0,South America
+Vietnam,1991,22400.0,Asia
+South Africa,1991,217000.0,Africa
+Zambia,1991,3660.0,Africa
+Zimbabwe,1991,20900.0,Africa
+Albania,1992,2840.0,Europe
+United Arab Emirates,1992,63500.0,Asia
+Argentina,1992,118000.0,South America
+Armenia,1992,4120.0,Europe
+Australia,1992,236000.0,Oceania
+Austria,1992,81700.0,Europe
+Azerbaijan,1992,22300.0,Europe
+Belgium,1992,151000.0,Europe
+Benin,1992,1130.0,Africa
+Burkina Faso,1992,864.0,Africa
+Bangladesh,1992,19500.0,Asia
+Bulgaria,1992,45400.0,Europe
+Bahrain,1992,10800.0,Asia
+Belarus,1992,36700.0,Europe
+Bolivia,1992,5890.0,South America
+Brazil,1992,243000.0,South America
+Brunei,1992,3090.0,Asia
+Botswana,1992,2780.0,Africa
+Canada,1992,480000.0,North America
+Switzerland,1992,81200.0,Europe
+Chile,1992,30100.0,South America
+China,1992,2480000.0,Asia
+Cote d'Ivoire,1992,4630.0,Africa
+Cameroon,1992,3280.0,Africa
+Colombia,1992,65700.0,South America
+Costa Rica,1992,5540.0,North America
+Cyprus,1992,5870.0,Europe
+Czech Republic,1992,143000.0,Europe
+Germany,1992,1100000.0,Europe
+Denmark,1992,60700.0,Europe
+Dominican Republic,1992,11200.0,North America
+Ecuador,1992,21000.0,South America
+Egypt,1992,87200.0,Africa
+Spain,1992,277000.0,Europe
+Estonia,1992,20600.0,Europe
+Ethiopia,1992,3780.0,Africa
+Finland,1992,70200.0,Europe
+France,1992,503000.0,Europe
+United Kingdom,1992,658000.0,Europe
+Georgia,1992,9430.0,Europe
+Ghana,1992,4660.0,Africa
+Guinea,1992,1060.0,Africa
+Greece,1992,95100.0,Europe
+Guatemala,1992,7160.0,North America
+"Hong Kong, China",1992,89300.0,Asia
+Honduras,1992,3430.0,North America
+Croatia,1992,15900.0,Europe
+Hungary,1992,75900.0,Europe
+Indonesia,1992,196000.0,Asia
+India,1992,687000.0,Asia
+Ireland,1992,40600.0,Europe
+Iran,1992,194000.0,Asia
+Israel,1992,53800.0,Asia
+Italy,1992,546000.0,Europe
+Jamaica,1992,6640.0,North America
+Jordan,1992,16200.0,Asia
+Japan,1992,1360000.0,Asia
+Kazakhstan,1992,159000.0,Asia
+Kenya,1992,7820.0,Africa
+Kyrgyz Republic,1992,14600.0,Asia
+Cambodia,1992,1960.0,Asia
+South Korea,1992,358000.0,Asia
+Kuwait,1992,31100.0,Asia
+Lao,1992,876.0,Asia
+Sri Lanka,1992,7500.0,Asia
+Lithuania,1992,34700.0,Europe
+Luxembourg,1992,12200.0,Europe
+Latvia,1992,16100.000000000002,Europe
+Morocco,1992,33400.0,Africa
+Madagascar,1992,1470.0,Africa
+Mexico,1992,340000.0,North America
+Malta,1992,2960.0,Europe
+Mongolia,1992,9070.0,Asia
+Mozambique,1992,3380.0,Africa
+Mauritius,1992,3030.0,Africa
+Malawi,1992,1640.0,Africa
+Malaysia,1992,76100.0,Asia
+Namibia,1992,1150.0,Africa
+Nigeria,1992,42300.0,Africa
+Nicaragua,1992,2880.0,North America
+Netherlands,1992,215000.0,Europe
+Norway,1992,37400.0,Europe
+Nepal,1992,1720.0,Asia
+New Zealand,1992,28700.0,Oceania
+Oman,1992,12100.0,Asia
+Pakistan,1992,75900.0,Asia
+Panama,1992,3300.0,North America
+Peru,1992,21900.0,South America
+Philippines,1992,64099.99999999999,Asia
+Poland,1992,339000.0,Europe
+Portugal,1992,59400.0,Europe
+Paraguay,1992,4020.0,South America
+Qatar,1992,20900.0,Asia
+Romania,1992,128000.0,Europe
+Russia,1992,1710000.0,Asia
+Rwanda,1992,479.0,Africa
+Saudi Arabia,1992,220000.0,Asia
+Senegal,1992,3550.0,Africa
+Singapore,1992,76800.0,Asia
+El Salvador,1992,4740.0,North America
+Slovak Republic,1992,51400.0,Europe
+Slovenia,1992,16100.000000000002,Europe
+Sweden,1992,80400.0,Europe
+Togo,1992,1360.0,Africa
+Thailand,1992,129000.0,Asia
+Trinidad and Tobago,1992,14600.0,North America
+Tunisia,1992,15900.0,Africa
+Turkey,1992,215000.0,Asia
+Taiwan,1992,180000.0,Asia
+Tanzania,1992,3570.0,Africa
+Uganda,1992,1610.0,Africa
+Ukraine,1992,427000.0,Europe
+Uruguay,1992,6210.0,South America
+United States,1992,5140000.0,North America
+Venezuela,1992,81600.0,South America
+Vietnam,1992,22600.0,Asia
+South Africa,1992,195000.0,Africa
+Zambia,1992,3660.0,Africa
+Zimbabwe,1992,21600.0,Africa
+Albania,1993,2630.0,Europe
+United Arab Emirates,1993,68300.0,Asia
+Argentina,1993,116000.0,South America
+Armenia,1993,1990.0,Europe
+Australia,1993,237000.0,Oceania
+Austria,1993,82500.0,Europe
+Azerbaijan,1993,30600.0,Europe
+Belgium,1993,152000.0,Europe
+Benin,1993,1340.0,Africa
+Burkina Faso,1993,880.0,Africa
+Bangladesh,1993,20500.0,Asia
+Bulgaria,1993,45000.0,Europe
+Bahrain,1993,13000.0,Asia
+Belarus,1993,38300.0,Europe
+Bolivia,1993,6770.0,South America
+Brazil,1993,253000.0,South America
+Brunei,1993,3380.0,Asia
+Botswana,1993,3200.0,Africa
+Canada,1993,477000.0,North America
+Switzerland,1993,80500.0,Europe
+Chile,1993,32400.0,South America
+China,1993,2620000.0,Asia
+Cote d'Ivoire,1993,5790.0,Africa
+Cameroon,1993,3530.0,Africa
+Colombia,1993,69300.0,South America
+Costa Rica,1993,5820.0,North America
+Cyprus,1993,5960.0,Europe
+Czech Republic,1993,135000.0,Europe
+Germany,1993,1110000.0,Europe
+Denmark,1993,62500.0,Europe
+Dominican Republic,1993,12000.0,North America
+Ecuador,1993,22600.0,South America
+Egypt,1993,98200.0,Africa
+Spain,1993,268000.0,Europe
+Estonia,1993,16600.0,Europe
+Ethiopia,1993,3910.0,Africa
+Finland,1993,71100.0,Europe
+France,1993,490000.0,Europe
+United Kingdom,1993,651000.0,Europe
+Georgia,1993,8040.0,Europe
+Ghana,1993,5310.0,Africa
+Guinea,1993,1090.0,Africa
+Greece,1993,95500.0,Europe
+Guatemala,1993,6970.0,North America
+"Hong Kong, China",1993,98300.0,Asia
+Honduras,1993,3390.0,North America
+Croatia,1993,17000.0,Europe
+Hungary,1993,77900.0,Europe
+Indonesia,1993,212000.0,Asia
+India,1993,707000.0,Asia
+Ireland,1993,40700.0,Europe
+Iran,1993,197000.0,Asia
+Israel,1993,56200.0,Asia
+Italy,1993,537000.0,Europe
+Jamaica,1993,7440.0,North America
+Jordan,1993,16200.0,Asia
+Japan,1993,1380000.0,Asia
+Kazakhstan,1993,122000.0,Asia
+Kenya,1993,8640.0,Africa
+Kyrgyz Republic,1993,11400.0,Asia
+Cambodia,1993,2040.0,Asia
+South Korea,1993,399000.0,Asia
+Kuwait,1993,44500.0,Asia
+Lao,1993,916.0,Asia
+Sri Lanka,1993,7710.0,Asia
+Lithuania,1993,24600.0,Europe
+Luxembourg,1993,12400.0,Europe
+Latvia,1993,14200.0,Europe
+Morocco,1993,35300.0,Africa
+Madagascar,1993,1550.0,Africa
+Mexico,1993,342000.0,North America
+Malta,1993,3030.0,Europe
+Mongolia,1993,7280.0,Asia
+Mozambique,1993,3770.0,Africa
+Mauritius,1993,3270.0,Africa
+Malawi,1993,1850.0,Africa
+Malaysia,1993,87500.0,Asia
+Namibia,1993,1390.0,Africa
+Nigeria,1993,41200.0,Africa
+Nicaragua,1993,2810.0,North America
+Netherlands,1993,217000.0,Europe
+Norway,1993,39000.0,Europe
+Nepal,1993,1940.0,Asia
+New Zealand,1993,28700.0,Oceania
+Oman,1993,13700.0,Asia
+Pakistan,1993,81800.0,Asia
+Panama,1993,3480.0,North America
+Peru,1993,25000.0,South America
+Philippines,1993,65800.0,Asia
+Poland,1993,339000.0,Europe
+Portugal,1993,59100.0,Europe
+Paraguay,1993,4230.0,South America
+Qatar,1993,24200.0,Asia
+Romania,1993,119000.0,Europe
+Russia,1993,1590000.0,Asia
+Rwanda,1993,483.0,Africa
+Saudi Arabia,1993,249000.0,Asia
+Senegal,1993,3680.0,Africa
+Singapore,1993,82300.0,Asia
+El Salvador,1993,5310.0,North America
+Slovak Republic,1993,49600.0,Europe
+Slovenia,1993,16600.0,Europe
+Sweden,1993,80000.0,Europe
+Togo,1993,1450.0,Africa
+Thailand,1993,141000.0,Asia
+Trinidad and Tobago,1993,13700.0,North America
+Tunisia,1993,17200.0,Africa
+Turkey,1993,217000.0,Asia
+Taiwan,1993,194000.0,Asia
+Tanzania,1993,3930.0,Africa
+Uganda,1993,1790.0,Africa
+Ukraine,1993,358000.0,Europe
+Uruguay,1993,5660.0,South America
+United States,1993,5270000.0,North America
+Venezuela,1993,90700.0,South America
+Vietnam,1993,24900.0,Asia
+South Africa,1993,198000.0,Africa
+Zambia,1993,3860.0,Africa
+Zimbabwe,1993,21300.0,Africa
+Albania,1994,2290.0,Europe
+United Arab Emirates,1994,75200.0,Asia
+Argentina,1994,120000.0,South America
+Armenia,1994,1940.0,Europe
+Australia,1994,244000.0,Oceania
+Austria,1994,84200.0,Europe
+Azerbaijan,1994,24900.0,Europe
+Belgium,1994,156000.0,Europe
+Benin,1994,1500.0,Africa
+Burkina Faso,1994,888.0,Africa
+Bangladesh,1994,22600.0,Asia
+Bulgaria,1994,43100.0,Europe
+Bahrain,1994,13300.0,Asia
+Belarus,1994,28500.0,Europe
+Bolivia,1994,7210.0,South America
+Brazil,1994,266000.0,South America
+Brunei,1994,3470.0,Asia
+Botswana,1994,3030.0,Africa
+Canada,1994,489000.0,North America
+Switzerland,1994,81700.0,Europe
+Chile,1994,34800.0,South America
+China,1994,2720000.0,Asia
+Cote d'Ivoire,1994,5020.0,Africa
+Cameroon,1994,3490.0,Africa
+Colombia,1994,73800.0,South America
+Costa Rica,1994,7100.0,North America
+Cyprus,1994,6240.0,Europe
+Czech Republic,1994,132000.0,Europe
+Germany,1994,1100000.0,Europe
+Denmark,1994,66100.0,Europe
+Dominican Republic,1994,12700.0,North America
+Ecuador,1994,14500.0,South America
+Egypt,1994,93800.0,Africa
+Spain,1994,276000.0,Europe
+Estonia,1994,17000.0,Europe
+Ethiopia,1994,3220.0,Africa
+Finland,1994,75300.0,Europe
+France,1994,492000.0,Europe
+United Kingdom,1994,654000.0,Europe
+Georgia,1994,4870.0,Europe
+Ghana,1994,6140.0,Africa
+Guinea,1994,1130.0,Africa
+Greece,1994,97800.0,Europe
+Guatemala,1994,8130.0,North America
+"Hong Kong, China",1994,110000.0,Asia
+Honduras,1994,3940.0,North America
+Croatia,1994,17100.0,Europe
+Hungary,1994,76700.0,Europe
+Indonesia,1994,218000.0,Asia
+India,1994,745000.0,Asia
+Ireland,1994,41400.0,Europe
+Iran,1994,217000.0,Asia
+Israel,1994,59800.0,Asia
+Italy,1994,536000.0,Europe
+Jamaica,1994,7270.0,North America
+Jordan,1994,17900.0,Asia
+Japan,1994,1450000.0,Asia
+Kazakhstan,1994,106000.0,Asia
+Kenya,1994,9300.0,Africa
+Kyrgyz Republic,1994,9470.0,Asia
+Cambodia,1994,2180.0,Asia
+South Korea,1994,425000.0,Asia
+Kuwait,1994,48700.0,Asia
+Lao,1994,980.0,Asia
+Sri Lanka,1994,8370.0,Asia
+Lithuania,1994,26200.0,Europe
+Luxembourg,1994,11600.0,Europe
+Latvia,1994,13200.0,Europe
+Morocco,1994,37200.0,Africa
+Madagascar,1994,1810.0,Africa
+Mexico,1994,353000.0,North America
+Malta,1994,3230.0,Europe
+Mongolia,1994,6560.0,Asia
+Mozambique,1994,3840.0,Africa
+Mauritius,1994,3270.0,Africa
+Malawi,1994,1920.0,Africa
+Malaysia,1994,89600.0,Asia
+Namibia,1994,1570.0,Africa
+Nigeria,1994,34100.0,Africa
+Nicaragua,1994,3060.0,North America
+Netherlands,1994,218000.0,Europe
+Norway,1994,40800.0,Europe
+Nepal,1994,2210.0,Asia
+New Zealand,1994,29000.0,Oceania
+Oman,1994,15200.0,Asia
+Pakistan,1994,88900.0,Asia
+Panama,1994,3840.0,North America
+Peru,1994,25100.0,South America
+Philippines,1994,70900.0,Asia
+Poland,1994,330000.0,Europe
+Portugal,1994,60700.0,Europe
+Paraguay,1994,4760.0,South America
+Qatar,1994,24000.0,Asia
+Romania,1994,116000.0,Europe
+Russia,1994,1350000.0,Asia
+Rwanda,1994,461.0,Africa
+Saudi Arabia,1994,244000.0,Asia
+Senegal,1994,3890.0,Africa
+Singapore,1994,89500.0,Asia
+El Salvador,1994,5960.0,North America
+Slovak Republic,1994,45800.0,Europe
+Slovenia,1994,16800.0,Europe
+Sweden,1994,83000.0,Europe
+Togo,1994,1440.0,Africa
+Thailand,1994,154000.0,Asia
+Trinidad and Tobago,1994,13200.0,North America
+Tunisia,1994,16500.0,Africa
+Turkey,1994,212000.0,Asia
+Taiwan,1994,205000.0,Asia
+Tanzania,1994,3730.0,Africa
+Uganda,1994,1680.0,Africa
+Ukraine,1994,257000.0,Europe
+Uruguay,1994,5420.0,South America
+United States,1994,5370000.0,North America
+Venezuela,1994,90300.0,South America
+Vietnam,1994,27800.0,Asia
+South Africa,1994,213000.0,Africa
+Zambia,1994,3860.0,Africa
+Zimbabwe,1994,23000.0,Africa
+Albania,1995,2460.0,Europe
+United Arab Emirates,1995,75200.0,Asia
+Argentina,1995,122000.0,South America
+Armenia,1995,2840.0,Europe
+Australia,1995,250000.0,Oceania
+Austria,1995,88800.0,Europe
+Azerbaijan,1995,25100.0,Europe
+Belgium,1995,162000.0,Europe
+Benin,1995,1620.0,Africa
+Burkina Faso,1995,924.0,Africa
+Bangladesh,1995,26200.0,Asia
+Bulgaria,1995,42500.0,Europe
+Bahrain,1995,13200.0,Asia
+Belarus,1995,30900.0,Europe
+Bolivia,1995,8080.0,South America
+Brazil,1995,287000.0,South America
+Brunei,1995,3240.0,Asia
+Botswana,1995,3050.0,Africa
+Canada,1995,502000.0,North America
+Switzerland,1995,86000.0,Europe
+Chile,1995,38300.0,South America
+China,1995,2940000.0,Asia
+Cote d'Ivoire,1995,6670.0,Africa
+Cameroon,1995,3820.0,Africa
+Colombia,1995,67900.0,South America
+Costa Rica,1995,6920.0,North America
+Cyprus,1995,6330.0,Europe
+Czech Republic,1995,131000.0,Europe
+Germany,1995,1120000.0,Europe
+Denmark,1995,65900.0,Europe
+Dominican Republic,1995,15500.0,North America
+Ecuador,1995,21400.0,South America
+Egypt,1995,105000.0,Africa
+Spain,1995,291000.0,Europe
+Estonia,1995,16300.0,Europe
+Ethiopia,1995,3610.0,Africa
+Finland,1995,74700.0,Europe
+France,1995,507000.0,Europe
+United Kingdom,1995,650000.0,Europe
+Georgia,1995,2200.0,Europe
+Ghana,1995,6260.0,Africa
+Guinea,1995,1170.0,Africa
+Greece,1995,101000.0,Europe
+Guatemala,1995,8580.0,North America
+"Hong Kong, China",1995,120000.0,Asia
+Honduras,1995,4350.0,North America
+Croatia,1995,18900.0,Europe
+Hungary,1995,76200.0,Europe
+Indonesia,1995,224000.0,Asia
+India,1995,778000.0,Asia
+Ireland,1995,42700.0,Europe
+Iran,1995,228000.0,Asia
+Israel,1995,63400.0,Asia
+Italy,1995,567000.0,Europe
+Jamaica,1995,8350.0,North America
+Jordan,1995,18400.0,Asia
+Japan,1995,1490000.0,Asia
+Kazakhstan,1995,83600.0,Asia
+Kenya,1995,10400.0,Africa
+Kyrgyz Republic,1995,9900.0,Asia
+Cambodia,1995,2180.0,Asia
+South Korea,1995,456000.0,Asia
+Kuwait,1995,47800.0,Asia
+Lao,1995,1100.0,Asia
+Sri Lanka,1995,9070.0,Asia
+Lithuania,1995,26800.0,Europe
+Luxembourg,1995,9170.0,Europe
+Latvia,1995,12200.0,Europe
+Morocco,1995,38300.0,Africa
+Madagascar,1995,1890.0,Africa
+Mexico,1995,324000.0,North America
+Malta,1995,3350.0,Europe
+Mongolia,1995,6840.0,Asia
+Mozambique,1995,4210.0,Africa
+Mauritius,1995,3640.0,Africa
+Malawi,1995,2030.0,Africa
+Malaysia,1995,105000.0,Asia
+Namibia,1995,1620.0,Africa
+Nigeria,1995,33600.0,Africa
+Nicaragua,1995,3290.0,North America
+Netherlands,1995,224000.0,Europe
+Norway,1995,42400.0,Europe
+Nepal,1995,2880.0,Asia
+New Zealand,1995,30600.0,Oceania
+Oman,1995,15600.0,Asia
+Pakistan,1995,89500.0,Asia
+Panama,1995,3200.0,North America
+Peru,1995,26200.0,South America
+Philippines,1995,76600.0,Asia
+Poland,1995,325000.0,Europe
+Portugal,1995,65000.0,Europe
+Paraguay,1995,5300.0,South America
+Qatar,1995,25400.0,Asia
+Romania,1995,119000.0,Europe
+Russia,1995,1300000.0,Asia
+Rwanda,1995,454.0,Africa
+Saudi Arabia,1995,190000.0,Asia
+Senegal,1995,3630.0,Africa
+Singapore,1995,87000.0,Asia
+El Salvador,1995,6530.0,North America
+Slovak Republic,1995,48300.0,Europe
+Slovenia,1995,17900.0,Europe
+Sweden,1995,83400.0,Europe
+Togo,1995,1620.0,Africa
+Thailand,1995,173000.0,Asia
+Trinidad and Tobago,1995,12600.0,North America
+Tunisia,1995,17100.0,Africa
+Turkey,1995,228000.0,Asia
+Taiwan,1995,215000.0,Asia
+Tanzania,1995,4100.0,Africa
+Uganda,1995,2000.0,Africa
+Ukraine,1995,209000.0,Europe
+Uruguay,1995,6100.0,South America
+United States,1995,5440000.0,North America
+Venezuela,1995,93300.0,South America
+Vietnam,1995,30500.0,Asia
+South Africa,1995,219000.0,Africa
+Zambia,1995,3980.0,Africa
+Zimbabwe,1995,21300.0,Africa
+Albania,1996,2870.0,Europe
+United Arab Emirates,1996,78100.0,Asia
+Argentina,1996,130000.0,South America
+Armenia,1996,3090.0,Europe
+Australia,1996,253000.0,Oceania
+Austria,1996,97000.0,Europe
+Azerbaijan,1996,30700.0,Europe
+Belgium,1996,163000.0,Europe
+Benin,1996,1690.0,Africa
+Burkina Faso,1996,1010.0,Africa
+Bangladesh,1996,27600.0,Asia
+Bulgaria,1996,43400.0,Europe
+Bahrain,1996,13600.0,Asia
+Belarus,1996,45800.0,Europe
+Bolivia,1996,8220.0,South America
+Brazil,1996,316000.0,South America
+Brunei,1996,4540.0,Asia
+Botswana,1996,2760.0,Africa
+Canada,1996,515000.0,North America
+Switzerland,1996,105000.0,Europe
+Chile,1996,43700.0,South America
+China,1996,3070000.0,Asia
+Cote d'Ivoire,1996,6110.0,Africa
+Cameroon,1996,3890.0,Africa
+Colombia,1996,67400.0,South America
+Costa Rica,1996,6760.0,North America
+Cyprus,1996,7500.0,Europe
+Czech Republic,1996,132000.0,Europe
+Germany,1996,1110000.0,Europe
+Denmark,1996,72500.0,Europe
+Dominican Republic,1996,17100.0,North America
+Ecuador,1996,22100.0,South America
+Egypt,1996,103000.0,Africa
+Spain,1996,275000.0,Europe
+Estonia,1996,17500.0,Europe
+Ethiopia,1996,3940.0,Africa
+Finland,1996,78200.0,Europe
+France,1996,516000.0,Europe
+United Kingdom,1996,683000.0,Europe
+Georgia,1996,9060.0,Europe
+Ghana,1996,7360.0,Africa
+Guinea,1996,1240.0,Africa
+Greece,1996,99400.0,Europe
+Guatemala,1996,8060.0,North America
+"Hong Kong, China",1996,118000.0,Asia
+Honduras,1996,4750.0,North America
+Croatia,1996,20200.0,Europe
+Hungary,1996,74100.0,Europe
+Indonesia,1996,250000.0,Asia
+India,1996,826000.0,Asia
+Ireland,1996,49000.0,Europe
+Iran,1996,241000.0,Asia
+Israel,1996,66000.0,Asia
+Italy,1996,536000.0,Europe
+Jamaica,1996,7370.0,North America
+Jordan,1996,15400.0,Asia
+Japan,1996,1500000.0,Asia
+Kazakhstan,1996,69000.0,Asia
+Kenya,1996,9430.0,Africa
+Kyrgyz Republic,1996,8350.0,Asia
+Cambodia,1996,2360.0,Asia
+South Korea,1996,492000.0,Asia
+Kuwait,1996,40500.0,Asia
+Lao,1996,1130.0,Asia
+Sri Lanka,1996,10300.0,Asia
+Lithuania,1996,23600.0,Europe
+Luxembourg,1996,9220.0,Europe
+Latvia,1996,13900.0,Europe
+Morocco,1996,34900.0,Africa
+Madagascar,1996,1620.0,Africa
+Mexico,1996,342000.0,North America
+Malta,1996,3360.0,Europe
+Mongolia,1996,7810.0,Asia
+Mozambique,1996,2690.0,Africa
+Mauritius,1996,4090.0,Africa
+Malawi,1996,2230.0,Africa
+Malaysia,1996,109000.0,Asia
+Namibia,1996,1720.0,Africa
+Nigeria,1996,37400.0,Africa
+Nicaragua,1996,3320.0,North America
+Netherlands,1996,222000.0,Europe
+Norway,1996,45200.0,Europe
+Nepal,1996,2960.0,Asia
+New Zealand,1996,32200.000000000004,Oceania
+Oman,1996,15400.0,Asia
+Pakistan,1996,101000.0,Asia
+Panama,1996,4380.0,North America
+Peru,1996,26200.0,South America
+Philippines,1996,77600.0,Asia
+Poland,1996,327000.0,Europe
+Portugal,1996,62100.0,Europe
+Paraguay,1996,5060.0,South America
+Qatar,1996,26200.0,Asia
+Romania,1996,117000.0,Europe
+Russia,1996,1320000.0,Asia
+Rwanda,1996,465.0,Africa
+Saudi Arabia,1996,208000.0,Asia
+Senegal,1996,4260.0,Africa
+Singapore,1996,100000.0,Asia
+El Salvador,1996,6080.0,North America
+Slovak Republic,1996,49900.0,Europe
+Slovenia,1996,17800.0,Europe
+Sweden,1996,88500.0,Europe
+Togo,1996,1640.0,Africa
+Thailand,1996,188000.0,Asia
+Trinidad and Tobago,1996,15700.0,North America
+Tunisia,1996,19600.0,Africa
+Turkey,1996,220000.0,Asia
+Taiwan,1996,207000.0,Asia
+Tanzania,1996,3880.0,Africa
+Uganda,1996,1730.0,Africa
+Ukraine,1996,228000.0,Europe
+Uruguay,1996,7450.0,South America
+United States,1996,5610000.0,North America
+Venezuela,1996,82800.0,South America
+Vietnam,1996,36900.0,Asia
+South Africa,1996,217000.0,Africa
+Zambia,1996,3790.0,Africa
+Zimbabwe,1996,23500.0,Africa
+Albania,1997,2190.0,Europe
+United Arab Emirates,1997,78900.0,Asia
+Argentina,1997,136000.0,South America
+Armenia,1997,4120.0,Europe
+Australia,1997,262000.0,Oceania
+Austria,1997,92300.0,Europe
+Azerbaijan,1997,28400.0,Europe
+Belgium,1997,169000.0,Europe
+Benin,1997,1850.0,Africa
+Burkina Faso,1997,1210.0,Africa
+Bangladesh,1997,29300.0,Asia
+Bulgaria,1997,39700.0,Europe
+Bahrain,1997,12500.0,Asia
+Belarus,1997,46800.0,Europe
+Bolivia,1997,9930.0,South America
+Brazil,1997,335000.0,South America
+Brunei,1997,2460.0,Asia
+Botswana,1997,2800.0,Africa
+Canada,1997,549000.0,North America
+Switzerland,1997,94800.0,Europe
+Chile,1997,48800.0,South America
+China,1997,2990000.0,Asia
+Cote d'Ivoire,1997,6050.0,Africa
+Cameroon,1997,4010.0,Africa
+Colombia,1997,73900.0,South America
+Costa Rica,1997,7510.0,North America
+Cyprus,1997,7060.0,Europe
+Czech Republic,1997,127000.0,Europe
+Germany,1997,1080000.0,Europe
+Denmark,1997,67600.0,Europe
+Dominican Republic,1997,18300.0,North America
+Ecuador,1997,18900.0,South America
+Egypt,1997,117000.0,Africa
+Spain,1997,283000.0,Europe
+Estonia,1997,17000.0,Europe
+Ethiopia,1997,4370.0,Africa
+Finland,1997,78200.0,Europe
+France,1997,506000.0,Europe
+United Kingdom,1997,674000.0,Europe
+Georgia,1997,7060.0,Europe
+Ghana,1997,8730.0,Africa
+Guinea,1997,1290.0,Africa
+Greece,1997,101000.0,Europe
+Guatemala,1997,9670.0,North America
+"Hong Kong, China",1997,134000.0,Asia
+Honduras,1997,5500.0,North America
+Croatia,1997,21200.0,Europe
+Hungary,1997,73000.0,Europe
+Indonesia,1997,273000.0,Asia
+India,1997,872000.0,Asia
+Ireland,1997,49000.0,Europe
+Iran,1997,248000.0,Asia
+Israel,1997,68700.0,Asia
+Italy,1997,546000.0,Europe
+Jamaica,1997,8030.0,North America
+Jordan,1997,18100.0,Asia
+Japan,1997,1480000.0,Asia
+Kazakhstan,1997,62100.0,Asia
+Kenya,1997,9550.0,Africa
+Kyrgyz Republic,1997,5120.0,Asia
+Cambodia,1997,2330.0,Asia
+South Korea,1997,510000.0,Asia
+Kuwait,1997,44200.0,Asia
+Lao,1997,1090.0,Asia
+Sri Lanka,1997,10200.0,Asia
+Lithuania,1997,22200.0,Europe
+Luxembourg,1997,8570.0,Europe
+Latvia,1997,14000.0,Europe
+Morocco,1997,33900.0,Africa
+Madagascar,1997,1920.0,Africa
+Mexico,1997,376000.0,North America
+Malta,1997,3230.0,Europe
+Mongolia,1997,6880.0,Asia
+Mozambique,1997,2050.0,Africa
+Mauritius,1997,4140.0,Africa
+Malawi,1997,2330.0,Africa
+Malaysia,1997,117000.0,Asia
+Namibia,1997,1770.0,Africa
+Nigeria,1997,46200.0,Africa
+Nicaragua,1997,3750.0,North America
+Netherlands,1997,216000.0,Europe
+Norway,1997,45700.0,Europe
+Nepal,1997,3140.0,Asia
+New Zealand,1997,34000.0,Oceania
+Oman,1997,15600.0,Asia
+Pakistan,1997,99800.0,Asia
+Panama,1997,5250.0,North America
+Peru,1997,29900.0,South America
+Philippines,1997,87200.0,Asia
+Poland,1997,320000.0,Europe
+Portugal,1997,66900.0,Europe
+Paraguay,1997,5710.0,South America
+Qatar,1997,28300.0,Asia
+Romania,1997,107000.0,Europe
+Russia,1997,1210000.0,Asia
+Rwanda,1997,482.0,Africa
+Saudi Arabia,1997,176000.0,Asia
+Senegal,1997,4020.0,Africa
+Singapore,1997,110000.0,Asia
+El Salvador,1997,7400.0,North America
+Slovak Republic,1997,50700.0,Europe
+Slovenia,1997,18200.0,Europe
+Sweden,1997,83600.0,Europe
+Togo,1997,1350.0,Africa
+Thailand,1997,182000.0,Asia
+Trinidad and Tobago,1997,14600.0,North America
+Tunisia,1997,21800.0,Africa
+Turkey,1997,238000.0,Asia
+Taiwan,1997,229000.0,Asia
+Tanzania,1997,4550.0,Africa
+Uganda,1997,1940.0,Africa
+Ukraine,1997,216000.0,Europe
+Uruguay,1997,8230.0,South America
+United States,1997,5700000.0,North America
+Venezuela,1997,93400.0,South America
+Vietnam,1997,44700.0,Asia
+South Africa,1997,223000.0,Africa
+Zambia,1997,4980.0,Africa
+Zimbabwe,1997,19200.0,Africa
+Albania,1998,2510.0,Europe
+United Arab Emirates,1998,92000.0,Asia
+Argentina,1998,138000.0,South America
+Armenia,1998,4240.0,Europe
+Australia,1998,276000.0,Oceania
+Austria,1998,96600.0,Europe
+Azerbaijan,1998,30600.0,Europe
+Belgium,1998,180000.0,Europe
+Benin,1998,2050.0,Africa
+Burkina Faso,1998,1980.0,Africa
+Bangladesh,1998,29200.0,Asia
+Bulgaria,1998,40900.0,Europe
+Bahrain,1998,13700.0,Asia
+Belarus,1998,70900.0,Europe
+Bolivia,1998,10200.0,South America
+Brazil,1998,345000.0,South America
+Brunei,1998,3490.0,Asia
+Botswana,1998,3340.0,Africa
+Canada,1998,557000.0,North America
+Switzerland,1998,113000.0,Europe
+Chile,1998,50600.0,South America
+China,1998,2860000.0,Asia
+Cote d'Ivoire,1998,8050.0,Africa
+Cameroon,1998,4000.0,Africa
+Colombia,1998,75800.0,South America
+Costa Rica,1998,8870.0,North America
+Cyprus,1998,8610.0,Europe
+Czech Republic,1998,121000.0,Europe
+Germany,1998,1080000.0,Europe
+Denmark,1998,65000.0,Europe
+Dominican Republic,1998,20700.0,North America
+Ecuador,1998,24200.0,South America
+Egypt,1998,134000.0,Africa
+Spain,1998,305000.0,Europe
+Estonia,1998,19300.0,Europe
+Ethiopia,1998,5270.0,Africa
+Finland,1998,73600.0,Europe
+France,1998,530000.0,Europe
+United Kingdom,1998,698000.0,Europe
+Georgia,1998,7590.0,Europe
+Ghana,1998,8850.0,Africa
+Guinea,1998,1360.0,Africa
+Greece,1998,110000.0,Europe
+Guatemala,1998,11700.0,North America
+"Hong Kong, China",1998,116000.0,Asia
+Honduras,1998,6330.0,North America
+Croatia,1998,20800.0,Europe
+Hungary,1998,73600.0,Europe
+Indonesia,1998,190000.0,Asia
+India,1998,888000.0,Asia
+Ireland,1998,49400.0,Europe
+Iran,1998,279000.0,Asia
+Israel,1998,71200.0,Asia
+Italy,1998,558000.0,Europe
+Jamaica,1998,9760.0,North America
+Jordan,1998,18700.0,Asia
+Japan,1998,1390000.0,Asia
+Kazakhstan,1998,64400.00000000001,Asia
+Kenya,1998,13400.0,Africa
+Kyrgyz Republic,1998,10300.0,Asia
+Cambodia,1998,2830.0,Asia
+South Korea,1998,383000.0,Asia
+Kuwait,1998,50800.0,Asia
+Lao,1998,1130.0,Asia
+Sri Lanka,1998,11200.0,Asia
+Lithuania,1998,21000.0,Europe
+Luxembourg,1998,7690.0,Europe
+Latvia,1998,13400.0,Europe
+Morocco,1998,36800.0,Africa
+Madagascar,1998,2410.0,Africa
+Mexico,1998,402000.0,North America
+Malta,1998,4360.0,Europe
+Mongolia,1998,6840.0,Asia
+Mozambique,1998,3430.0,Africa
+Mauritius,1998,3950.0,Africa
+Malawi,1998,2290.0,Africa
+Malaysia,1998,88600.0,Asia
+Namibia,1998,1820.0,Africa
+Nigeria,1998,41600.0,Africa
+Nicaragua,1998,4140.0,North America
+Netherlands,1998,223000.0,Europe
+Norway,1998,47300.0,Europe
+Nepal,1998,4190.0,Asia
+New Zealand,1998,31600.0,Oceania
+Oman,1998,16800.0,Asia
+Pakistan,1998,101000.0,Asia
+Panama,1998,5890.0,North America
+Peru,1998,30700.0,South America
+Philippines,1998,82000.0,Asia
+Poland,1998,293000.0,Europe
+Portugal,1998,72000.0,Europe
+Paraguay,1998,5720.0,South America
+Qatar,1998,24500.0,Asia
+Romania,1998,95300.0,Europe
+Russia,1998,1140000.0,Asia
+Rwanda,1998,482.0,Africa
+Saudi Arabia,1998,183000.0,Asia
+Senegal,1998,4190.0,Africa
+Singapore,1998,88800.0,Asia
+El Salvador,1998,8420.0,North America
+Slovak Republic,1998,49600.0,Europe
+Slovenia,1998,18600.0,Europe
+Sweden,1998,85000.0,Europe
+Togo,1998,1870.0,Africa
+Thailand,1998,138000.0,Asia
+Trinidad and Tobago,1998,15500.0,North America
+Tunisia,1998,19500.0,Africa
+Turkey,1998,238000.0,Asia
+Taiwan,1998,227000.0,Asia
+Tanzania,1998,4400.0,Africa
+Uganda,1998,2710.0,Africa
+Ukraine,1998,183000.0,Europe
+Uruguay,1998,8800.0,South America
+United States,1998,5850000.0,North America
+Venezuela,1998,113000.0,South America
+Vietnam,1998,46400.0,Asia
+South Africa,1998,217000.0,Africa
+Zambia,1998,4510.0,Africa
+Zimbabwe,1998,16500.0,Africa
+Albania,1999,3680.0,Europe
+United Arab Emirates,1999,80000.0,Asia
+Argentina,1999,136000.0,South America
+Armenia,1999,5350.0,Europe
+Australia,1999,275000.0,Oceania
+Austria,1999,91700.0,Europe
+Azerbaijan,1999,26100.0,Europe
+Belgium,1999,182000.0,Europe
+Benin,1999,2060.0,Africa
+Burkina Faso,1999,2420.0,Africa
+Bangladesh,1999,29900.0,Asia
+Bulgaria,1999,38300.0,Europe
+Bahrain,1999,6580.0,Asia
+Belarus,1999,59900.0,Europe
+Bolivia,1999,10400.0,South America
+Brazil,1999,335000.0,South America
+Brunei,1999,1960.0,Asia
+Botswana,1999,3160.0,Africa
+Canada,1999,557000.0,North America
+Switzerland,1999,98100.0,Europe
+Chile,1999,55700.0,South America
+China,1999,2890000.0,Asia
+Cote d'Ivoire,1999,4790.0,Africa
+Cameroon,1999,3260.0,Africa
+Colombia,1999,61300.0,South America
+Costa Rica,1999,12900.0,North America
+Cyprus,1999,7800.0,Europe
+Czech Republic,1999,113000.0,Europe
+Germany,1999,1060000.0,Europe
+Denmark,1999,66900.0,Europe
+Dominican Republic,1999,24200.0,North America
+Ecuador,1999,22200.0,South America
+Egypt,1999,139000.0,Africa
+Spain,1999,320000.0,Europe
+Estonia,1999,18800.0,Europe
+Ethiopia,1999,5190.0,Africa
+Finland,1999,71900.0,Europe
+France,1999,522000.0,Europe
+United Kingdom,1999,674000.0,Europe
+Georgia,1999,5790.0,Europe
+Ghana,1999,9360.0,Africa
+Guinea,1999,1430.0,Africa
+Greece,1999,104000.0,Europe
+Guatemala,1999,12000.0,North America
+"Hong Kong, China",1999,102000.0,Asia
+Honduras,1999,7080.0,North America
+Croatia,1999,21500.0,Europe
+Hungary,1999,72700.0,Europe
+Indonesia,1999,243000.0,Asia
+India,1999,958000.0,Asia
+Ireland,1999,53500.0,Europe
+Iran,1999,287000.0,Asia
+Israel,1999,64000.0,Asia
+Italy,1999,565000.0,Europe
+Jamaica,1999,9640.0,North America
+Jordan,1999,17400.0,Asia
+Japan,1999,1460000.0,Asia
+Kazakhstan,1999,74400.0,Asia
+Kenya,1999,11800.0,Africa
+Kyrgyz Republic,1999,5490.0,Asia
+Cambodia,1999,2640.0,Asia
+South Korea,1999,448000.0,Asia
+Kuwait,1999,39500.0,Asia
+Lao,1999,1080.0,Asia
+Sri Lanka,1999,13800.0,Asia
+Lithuania,1999,18300.0,Europe
+Luxembourg,1999,7940.0,Europe
+Latvia,1999,11200.0,Europe
+Morocco,1999,39200.0,Africa
+Madagascar,1999,2740.0,Africa
+Mexico,1999,404000.0,North America
+Malta,1999,3710.0,Europe
+Mongolia,1999,6730.0,Asia
+Mozambique,1999,4630.0,Africa
+Mauritius,1999,4210.0,Africa
+Malawi,1999,2290.0,Africa
+Malaysia,1999,98500.0,Asia
+Namibia,1999,1660.0,Africa
+Nigeria,1999,33300.0,Africa
+Nicaragua,1999,4390.0,North America
+Netherlands,1999,198000.0,Europe
+Norway,1999,33300.0,Europe
+Nepal,1999,6310.0,Asia
+New Zealand,1999,36100.0,Oceania
+Oman,1999,15300.0,Asia
+Pakistan,1999,111000.0,Asia
+Panama,1999,6350.0,North America
+Peru,1999,33000.0,South America
+Philippines,1999,86100.0,Asia
+Poland,1999,301000.0,Europe
+Portugal,1999,76400.0,Europe
+Paraguay,1999,5670.0,South America
+Qatar,1999,12900.0,Asia
+Romania,1999,84500.0,Europe
+Russia,1999,1200000.0,Asia
+Rwanda,1999,503.0,Africa
+Saudi Arabia,1999,135000.0,Asia
+Senegal,1999,4560.0,Africa
+Singapore,1999,102000.0,Asia
+El Salvador,1999,7880.0,North America
+Slovak Republic,1999,44200.0,Europe
+Slovenia,1999,17400.0,Europe
+Sweden,1999,80100.0,Europe
+Togo,1999,1830.0,Africa
+Thailand,1999,156000.0,Asia
+Trinidad and Tobago,1999,16800.0,North America
+Tunisia,1999,18500.0,Africa
+Turkey,1999,229000.0,Asia
+Taiwan,1999,237000.0,Asia
+Tanzania,1999,4610.0,Africa
+Uganda,1999,2800.0,Africa
+Ukraine,1999,217000.0,Europe
+Uruguay,1999,9850.0,South America
+United States,1999,6040000.0,North America
+Venezuela,1999,48700.0,South America
+Vietnam,1999,42400.0,Asia
+South Africa,1999,249000.0,Africa
+Zambia,1999,3650.0,Africa
+Zimbabwe,1999,14900.0,Africa
+Albania,2000,3760.0,Europe
+United Arab Emirates,2000,107000.0,Asia
+Argentina,2000,128000.0,South America
+Armenia,2000,4020.0,Europe
+Australia,2000,274000.0,Oceania
+Austria,2000,91800.0,Europe
+Azerbaijan,2000,27400.0,Europe
+Belgium,2000,188000.0,Europe
+Benin,2000,2500.0,Africa
+Burkina Faso,2000,1610.0,Africa
+Bangladesh,2000,32500.0,Asia
+Bulgaria,2000,41500.0,Europe
+Bahrain,2000,12200.0,Asia
+Belarus,2000,56900.0,Europe
+Bolivia,2000,10200.0,South America
+Brazil,2000,345000.0,South America
+Brunei,2000,2060.0,Asia
+Botswana,2000,9830.0,Africa
+Canada,2000,581000.0,North America
+Switzerland,2000,102000.0,Europe
+Chile,2000,55600.0,South America
+China,2000,2960000.0,Asia
+Cote d'Ivoire,2000,4020.0,Africa
+Cameroon,2000,3920.0,Africa
+Colombia,2000,61100.0,South America
+Costa Rica,2000,10000.0,North America
+Cyprus,2000,8930.0,Europe
+Czech Republic,2000,122000.0,Europe
+Germany,2000,1060000.0,Europe
+Denmark,2000,62800.0,Europe
+Dominican Republic,2000,25800.0,North America
+Ecuador,2000,21400.0,South America
+Egypt,2000,149000.0,Africa
+Spain,2000,332000.0,Europe
+Estonia,2000,17400.0,Europe
+Ethiopia,2000,4960.0,Africa
+Finland,2000,70800.0,Europe
+France,2000,523000.0,Europe
+United Kingdom,2000,681000.0,Europe
+Georgia,2000,5410.0,Europe
+Ghana,2000,8710.0,Africa
+Guinea,2000,1490.0,Africa
+Greece,2000,110000.0,Europe
+Guatemala,2000,12400.0,North America
+"Hong Kong, China",2000,105000.0,Asia
+Honduras,2000,7560.0,North America
+Croatia,2000,20900.0,Europe
+Hungary,2000,70700.0,Europe
+Indonesia,2000,263000.0,Asia
+India,2000,952000.0,Asia
+Ireland,2000,54700.0,Europe
+Iran,2000,283000.0,Asia
+Israel,2000,66000.0,Asia
+Italy,2000,578000.0,Europe
+Jamaica,2000,7950.0,North America
+Jordan,2000,17000.0,Asia
+Japan,2000,1510000.0,Asia
+Kazakhstan,2000,85500.0,Asia
+Kenya,2000,10200.0,Africa
+Kyrgyz Republic,2000,4680.0,Asia
+Cambodia,2000,2730.0,Asia
+South Korea,2000,501000.0,Asia
+Kuwait,2000,24800.0,Asia
+Lao,2000,1690.0,Asia
+Sri Lanka,2000,14800.0,Asia
+Lithuania,2000,16700.0,Europe
+Luxembourg,2000,7180.0,Europe
+Latvia,2000,11000.0,Europe
+Morocco,2000,40600.0,Africa
+Madagascar,2000,2360.0,Africa
+Mexico,2000,422000.0,North America
+Malta,2000,4110.0,Europe
+Mongolia,2000,6880.0,Asia
+Mozambique,2000,4880.0,Africa
+Mauritius,2000,4560.0,Africa
+Malawi,2000,2080.0,Africa
+Malaysia,2000,113000.0,Asia
+Namibia,2000,5940.0,Africa
+Nigeria,2000,57800.0,Africa
+Nicaragua,2000,4490.0,North America
+Netherlands,2000,199000.0,Europe
+Norway,2000,31600.0,Europe
+Nepal,2000,3920.0,Asia
+New Zealand,2000,35500.0,Oceania
+Oman,2000,16400.0,Asia
+Pakistan,2000,116000.0,Asia
+Panama,2000,5870.0,North America
+Peru,2000,33500.0,South America
+Philippines,2000,92400.0,Asia
+Poland,2000,285000.0,Europe
+Portugal,2000,80200.0,Europe
+Paraguay,2000,5010.0,South America
+Qatar,2000,15400.0,Asia
+Romania,2000,89000.0,Europe
+Russia,2000,1210000.0,Asia
+Rwanda,2000,520.0,Africa
+Saudi Arabia,2000,162000.0,Asia
+Senegal,2000,4550.0,Africa
+Singapore,2000,118000.0,Asia
+El Salvador,2000,7910.0,North America
+Slovak Republic,2000,43800.0,Europe
+Slovenia,2000,18100.0,Europe
+Sweden,2000,81100.0,Europe
+Togo,2000,1450.0,Africa
+Thailand,2000,163000.0,Asia
+Trinidad and Tobago,2000,15700.0,North America
+Tunisia,2000,21200.0,Africa
+Turkey,2000,259000.0,Asia
+Taiwan,2000,254000.0,Asia
+Tanzania,2000,4900.0,Africa
+Uganda,2000,2350.0,Africa
+Ukraine,2000,194000.0,Europe
+Uruguay,2000,8310.0,South America
+United States,2000,6260000.0,North America
+Venezuela,2000,44600.0,South America
+Vietnam,2000,47300.0,Asia
+South Africa,2000,250000.0,Africa
+Zambia,2000,4460.0,Africa
+Zimbabwe,2000,8990.0,Africa
+Albania,2001,4020.0,Europe
+United Arab Emirates,2001,108000.0,Asia
+Argentina,2001,117000.0,South America
+Armenia,2001,4460.0,Europe
+Australia,2001,278000.0,Oceania
+Austria,2001,94700.0,Europe
+Azerbaijan,2001,27700.0,Europe
+Belgium,2001,186000.0,Europe
+Benin,2001,2780.0,Africa
+Burkina Faso,2001,1970.0,Africa
+Bangladesh,2001,40400.0,Asia
+Bulgaria,2001,43900.0,Europe
+Bahrain,2001,10700.0,Asia
+Belarus,2001,56700.0,Europe
+Bolivia,2001,8130.0,South America
+Brazil,2001,348000.0,South America
+Brunei,2001,2000.0,Asia
+Botswana,2001,8420.0,Africa
+Canada,2001,564000.0,North America
+Switzerland,2001,94400.0,Europe
+Chile,2001,51700.0,South America
+China,2001,3110000.0,Asia
+Cote d'Ivoire,2001,4890.0,Africa
+Cameroon,2001,4410.0,Africa
+Colombia,2001,62400.0,South America
+Costa Rica,2001,12200.0,North America
+Cyprus,2001,8840.0,Europe
+Czech Republic,2001,122000.0,Europe
+Germany,2001,1060000.0,Europe
+Denmark,2001,63400.0,Europe
+Dominican Republic,2001,26600.0,North America
+Ecuador,2001,25900.0,South America
+Egypt,2001,134000.0,Africa
+Spain,2001,337000.0,Europe
+Estonia,2001,17300.0,Europe
+Ethiopia,2001,5890.0,Africa
+Finland,2001,76500.0,Europe
+France,2001,522000.0,Europe
+United Kingdom,2001,692000.0,Europe
+Georgia,2001,5170.0,Europe
+Ghana,2001,9840.0,Africa
+Guinea,2001,1560.0,Africa
+Greece,2001,112000.0,Europe
+Guatemala,2001,13700.0,North America
+"Hong Kong, China",2001,109000.0,Asia
+Honduras,2001,8560.0,North America
+Croatia,2001,23400.0,Europe
+Hungary,2001,73700.0,Europe
+Indonesia,2001,289000.0,Asia
+India,2001,967000.0,Asia
+Ireland,2001,55000.0,Europe
+Iran,2001,315000.0,Asia
+Israel,2001,70100.0,Asia
+Italy,2001,576000.0,Europe
+Jamaica,2001,10200.0,North America
+Jordan,2001,20100.0,Asia
+Japan,2001,1480000.0,Asia
+Kazakhstan,2001,90300.0,Asia
+Kenya,2001,10600.0,Africa
+Kyrgyz Republic,2001,3930.0,Asia
+Cambodia,2001,3320.0,Asia
+South Korea,2001,487000.0,Asia
+Kuwait,2001,30600.0,Asia
+Lao,2001,1490.0,Asia
+Sri Lanka,2001,15800.0,Asia
+Lithuania,2001,17000.0,Europe
+Luxembourg,2001,7720.0,Europe
+Latvia,2001,11300.0,Europe
+Morocco,2001,43600.0,Africa
+Madagascar,2001,2380.0,Africa
+Mexico,2001,430000.0,North America
+Malta,2001,4510.0,Europe
+Mongolia,2001,7000.0,Asia
+Mozambique,2001,4450.0,Africa
+Mauritius,2001,4330.0,Africa
+Malawi,2001,1910.0,Africa
+Malaysia,2001,119000.0,Asia
+Namibia,2001,6470.0,Africa
+Nigeria,2001,78300.0,Africa
+Nicaragua,2001,4770.0,North America
+Netherlands,2001,195000.0,Europe
+Norway,2001,30700.0,Europe
+Nepal,2001,4040.0,Asia
+New Zealand,2001,36700.0,Oceania
+Oman,2001,15800.0,Asia
+Pakistan,2001,116000.0,Asia
+Panama,2001,6320.0,North America
+Peru,2001,30000.0,South America
+Philippines,2001,90200.0,Asia
+Poland,2001,282000.0,Europe
+Portugal,2001,78600.0,Europe
+Paraguay,2001,5030.0,South America
+Qatar,2001,19300.0,Asia
+Romania,2001,93900.0,Europe
+Russia,2001,1250000.0,Asia
+Rwanda,2001,522.0,Africa
+Saudi Arabia,2001,168000.0,Asia
+Senegal,2001,5190.0,Africa
+Singapore,2001,103000.0,Asia
+El Salvador,2001,8840.0,North America
+Slovak Republic,2001,46400.0,Europe
+Slovenia,2001,18300.0,Europe
+Sweden,2001,78200.0,Europe
+Togo,2001,1590.0,Africa
+Thailand,2001,169000.0,Asia
+Trinidad and Tobago,2001,17200.0,North America
+Tunisia,2001,19800.0,Africa
+Turkey,2001,221000.0,Asia
+Taiwan,2001,232000.0,Asia
+Tanzania,2001,5240.0,Africa
+Uganda,2001,2860.0,Africa
+Ukraine,2001,232000.0,Europe
+Uruguay,2001,7640.0,South America
+United States,2001,6170000.0,North America
+Venezuela,2001,58500.0,South America
+Vietnam,2001,54000.0,Asia
+South Africa,2001,241000.0,Africa
+Zambia,2001,4260.0,Africa
+Zimbabwe,2001,9860.0,Africa
+Albania,2002,5100.0,Europe
+United Arab Emirates,2002,97000.0,Asia
+Argentina,2002,96200.0,South America
+Armenia,2002,3690.0,Europe
+Australia,2002,294000.0,Oceania
+Austria,2002,96700.0,Europe
+Azerbaijan,2002,31500.0,Europe
+Belgium,2002,198000.0,Europe
+Benin,2002,3130.0,Africa
+Burkina Faso,2002,1920.0,Africa
+Bangladesh,2002,37600.0,Asia
+Bulgaria,2002,41300.0,Europe
+Bahrain,2002,10200.0,Asia
+Belarus,2002,59200.0,Europe
+Bolivia,2002,9750.0,South America
+Brazil,2002,335000.0,South America
+Brunei,2002,2020.0,Asia
+Botswana,2002,3060.0,Africa
+Canada,2002,583000.0,North America
+Switzerland,2002,91400.0,Europe
+Chile,2002,53000.0,South America
+China,2002,3360000.0,Asia
+Cote d'Ivoire,2002,3990.0,Africa
+Cameroon,2002,4370.0,Africa
+Colombia,2002,66200.0,South America
+Costa Rica,2002,17900.0,North America
+Cyprus,2002,10600.0,Europe
+Czech Republic,2002,124000.0,Europe
+Germany,2002,1030000.0,Europe
+Denmark,2002,64000.0,Europe
+Dominican Republic,2002,24000.0,North America
+Ecuador,2002,29900.0,South America
+Egypt,2002,135000.0,Africa
+Spain,2002,362000.0,Europe
+Estonia,2002,18500.0,Europe
+Ethiopia,2002,5820.0,Africa
+Finland,2002,77200.0,Europe
+France,2002,523000.0,Europe
+United Kingdom,2002,684000.0,Europe
+Georgia,2002,4790.0,Europe
+Ghana,2002,10100.0,Africa
+Guinea,2002,1620.0,Africa
+Greece,2002,114000.0,Europe
+Guatemala,2002,15400.0,North America
+"Hong Kong, China",2002,96100.0,Asia
+Honduras,2002,9770.0,North America
+Croatia,2002,24900.0,Europe
+Hungary,2002,77100.0,Europe
+Indonesia,2002,304000.0,Asia
+India,2002,965000.0,Asia
+Ireland,2002,55700.0,Europe
+Iran,2002,330000.0,Asia
+Israel,2002,67800.0,Asia
+Italy,2002,586000.0,Europe
+Jamaica,2002,8610.0,North America
+Jordan,2002,21600.0,Asia
+Japan,2002,1490000.0,Asia
+Kazakhstan,2002,97100.0,Asia
+Kenya,2002,7420.0,Africa
+Kyrgyz Republic,2002,4590.0,Asia
+Cambodia,2002,2670.0,Asia
+South Korea,2002,517000.0,Asia
+Kuwait,2002,32800.0,Asia
+Lao,2002,1710.0,Asia
+Sri Lanka,2002,17500.0,Asia
+Lithuania,2002,20800.0,Europe
+Luxembourg,2002,8400.0,Europe
+Latvia,2002,11000.0,Europe
+Morocco,2002,47700.0,Africa
+Madagascar,2002,1680.0,Africa
+Mexico,2002,435000.0,North America
+Malta,2002,3530.0,Europe
+Mongolia,2002,7360.0,Asia
+Mozambique,2002,4500.0,Africa
+Mauritius,2002,4510.0,Africa
+Malawi,2002,2260.0,Africa
+Malaysia,2002,130000.0,Asia
+Namibia,2002,1470.0,Africa
+Nigeria,2002,80000.0,Africa
+Nicaragua,2002,4970.0,North America
+Netherlands,2002,201000.0,Europe
+Norway,2002,34100.0,Europe
+Nepal,2002,3800.0,Asia
+New Zealand,2002,37600.0,Oceania
+Oman,2002,18900.0,Asia
+Pakistan,2002,124000.0,Asia
+Panama,2002,6270.0,North America
+Peru,2002,31300.0,South America
+Philippines,2002,87300.0,Asia
+Poland,2002,277000.0,Europe
+Portugal,2002,81900.0,Europe
+Paraguay,2002,4410.0,South America
+Qatar,2002,20600.0,Asia
+Romania,2002,94700.0,Europe
+Russia,2002,1220000.0,Asia
+Rwanda,2002,520.0,Africa
+Saudi Arabia,2002,199000.0,Asia
+Senegal,2002,6210.0,Africa
+Singapore,2002,104000.0,Asia
+El Salvador,2002,9150.0,North America
+Slovak Republic,2002,46100.0,Europe
+Slovenia,2002,18600.0,Europe
+Sweden,2002,80400.0,Europe
+Togo,2002,1780.0,Africa
+Thailand,2002,167000.0,Asia
+Trinidad and Tobago,2002,20100.0,North America
+Tunisia,2002,20400.0,Africa
+Turkey,2002,240000.0,Asia
+Taiwan,2002,262000.0,Asia
+Tanzania,2002,5720.0,Africa
+Uganda,2002,2520.0,Africa
+Ukraine,2002,228000.0,Europe
+Uruguay,2002,6040.0,South America
+United States,2002,6280000.0,North America
+Venezuela,2002,53500.0,South America
+Vietnam,2002,63400.0,Asia
+South Africa,2002,240000.0,Africa
+Zambia,2002,4000.0,Africa
+Zimbabwe,2002,11300.0,Africa
+Albania,2003,5630.0,Europe
+United Arab Emirates,2003,132000.0,Asia
+Argentina,2003,114000.0,South America
+Armenia,2003,4350.0,Europe
+Australia,2003,301000.0,Oceania
+Austria,2003,99400.0,Europe
+Azerbaijan,2003,34400.0,Europe
+Belgium,2003,193000.0,Europe
+Benin,2003,3490.0,Africa
+Burkina Faso,2003,1980.0,Africa
+Bangladesh,2003,45700.0,Asia
+Bulgaria,2003,44300.0,Europe
+Bahrain,2003,10300.0,Asia
+Belarus,2003,59700.0,Europe
+Bolivia,2003,8870.0,South America
+Brazil,2003,321000.0,South America
+Brunei,2003,4100.0,Asia
+Botswana,2003,16000.0,Africa
+Canada,2003,560000.0,North America
+Switzerland,2003,108000.0,Europe
+Chile,2003,50100.0,South America
+China,2003,3820000.0,Asia
+Cote d'Ivoire,2003,6600.0,Africa
+Cameroon,2003,5230.0,Africa
+Colombia,2003,61500.0,South America
+Costa Rica,2003,12500.0,North America
+Cyprus,2003,10000.0,Europe
+Czech Republic,2003,124000.0,Europe
+Germany,2003,1060000.0,Europe
+Denmark,2003,66700.0,Europe
+Dominican Republic,2003,21600.0,North America
+Ecuador,2003,29700.0,South America
+Egypt,2003,150000.0,Africa
+Spain,2003,363000.0,Europe
+Estonia,2003,20600.0,Europe
+Ethiopia,2003,6620.0,Africa
+Finland,2003,86800.0,Europe
+France,2003,525000.0,Europe
+United Kingdom,2003,710000.0,Europe
+Georgia,2003,5450.0,Europe
+Ghana,2003,10900.0,Africa
+Guinea,2003,1700.0,Africa
+Greece,2003,99000.0,Europe
+Guatemala,2003,13200.0,North America
+"Hong Kong, China",2003,90400.0,Asia
+Honduras,2003,8980.0,North America
+Croatia,2003,26800.0,Europe
+Hungary,2003,82600.0,Europe
+Indonesia,2003,312000.0,Asia
+India,2003,1020000.0,Asia
+Ireland,2003,61300.0,Europe
+Iran,2003,395000.0,Asia
+Israel,2003,77300.0,Asia
+Italy,2003,585000.0,Europe
+Jamaica,2003,10000.0,North America
+Jordan,2003,21900.0,Asia
+Japan,2003,1500000.0,Asia
+Kazakhstan,2003,104000.0,Asia
+Kenya,2003,9490.0,Africa
+Kyrgyz Republic,2003,5740.0,Asia
+Cambodia,2003,4550.0,Asia
+South Korea,2003,509000.0,Asia
+Kuwait,2003,46800.0,Asia
+Lao,2003,1610.0,Asia
+Sri Lanka,2003,16800.0,Asia
+Lithuania,2003,20100.0,Europe
+Luxembourg,2003,10300.0,Europe
+Latvia,2003,14200.0,Europe
+Morocco,2003,42100.0,Africa
+Madagascar,2003,3000.0,Africa
+Mexico,2003,465000.0,North America
+Malta,2003,5030.0,Europe
+Mongolia,2003,8170.0,Asia
+Mozambique,2003,4610.0,Africa
+Mauritius,2003,4810.0,Africa
+Malawi,2003,2160.0,Africa
+Malaysia,2003,137000.0,Asia
+Namibia,2003,4800.0,Africa
+Nigeria,2003,88300.0,Africa
+Nicaragua,2003,5520.0,North America
+Netherlands,2003,193000.0,Europe
+Norway,2003,39600.0,Europe
+Nepal,2003,4990.0,Asia
+New Zealand,2003,38500.0,Oceania
+Oman,2003,24600.0,Asia
+Pakistan,2003,123000.0,Asia
+Panama,2003,1810.0,North America
+Peru,2003,27400.0,South America
+Philippines,2003,92600.0,Asia
+Poland,2003,280000.0,Europe
+Portugal,2003,78500.0,Europe
+Paraguay,2003,4760.0,South America
+Qatar,2003,25100.0,Asia
+Romania,2003,98300.0,Europe
+Russia,2003,1260000.0,Asia
+Rwanda,2003,509.0,Africa
+Saudi Arabia,2003,281000.0,Asia
+Senegal,2003,5870.0,Africa
+Singapore,2003,102000.0,Asia
+El Salvador,2003,9190.0,North America
+Slovak Republic,2003,44900.0,Europe
+Slovenia,2003,18500.0,Europe
+Sweden,2003,84700.0,Europe
+Togo,2003,2400.0,Africa
+Thailand,2003,189000.0,Asia
+Trinidad and Tobago,2003,16700.0,North America
+Tunisia,2003,19000.0,Africa
+Turkey,2003,254000.0,Asia
+Taiwan,2003,253000.0,Asia
+Tanzania,2003,6250.0,Africa
+Uganda,2003,2960.0,Africa
+Ukraine,2003,205000.0,Europe
+Uruguay,2003,6420.0,South America
+United States,2003,6350000.0,North America
+Venezuela,2003,108000.0,South America
+Vietnam,2003,82600.0,Asia
+South Africa,2003,256000.0,Africa
+Zambia,2003,3980.0,Africa
+Zimbabwe,2003,9400.0,Africa
+Albania,2004,5360.0,Europe
+United Arab Emirates,2004,148000.0,Asia
+Argentina,2004,134000.0,South America
+Armenia,2004,4510.0,Europe
+Australia,2004,320000.0,Oceania
+Austria,2004,102000.0,Europe
+Azerbaijan,2004,37000.0,Europe
+Belgium,2004,214000.0,Europe
+Benin,2004,3360.0,Africa
+Burkina Faso,2004,2330.0,Africa
+Bangladesh,2004,47500.0,Asia
+Bulgaria,2004,43700.0,Europe
+Bahrain,2004,10500.0,Asia
+Belarus,2004,63200.0,Europe
+Bolivia,2004,8510.0,South America
+Brazil,2004,336000.0,South America
+Brunei,2004,3930.0,Asia
+Botswana,2004,10900.0,Africa
+Canada,2004,575000.0,North America
+Switzerland,2004,107000.0,Europe
+Chile,2004,53600.0,South America
+China,2004,4330000.0,Asia
+Cote d'Ivoire,2004,7230.0,Africa
+Cameroon,2004,5030.0,Africa
+Colombia,2004,59100.0,South America
+Costa Rica,2004,12800.0,North America
+Cyprus,2004,9220.0,Europe
+Czech Republic,2004,120000.0,Europe
+Germany,2004,1060000.0,Europe
+Denmark,2004,67800.0,Europe
+Dominican Republic,2004,18500.0,North America
+Ecuador,2004,31000.0,South America
+Egypt,2004,146000.0,Africa
+Spain,2004,390000.0,Europe
+Estonia,2004,18200.0,Europe
+Ethiopia,2004,6450.0,Africa
+Finland,2004,89600.0,Europe
+France,2004,549000.0,Europe
+United Kingdom,2004,724000.0,Europe
+Georgia,2004,6420.0,Europe
+Ghana,2004,12100.0,Africa
+Guinea,2004,1760.0,Africa
+Greece,2004,95600.0,Europe
+Guatemala,2004,13700.0,North America
+"Hong Kong, China",2004,81000.0,Asia
+Honduras,2004,8870.0,North America
+Croatia,2004,26600.0,Europe
+Hungary,2004,78700.0,Europe
+Indonesia,2004,331000.0,Asia
+India,2004,1080000.0,Asia
+Ireland,2004,64599.99999999999,Europe
+Iran,2004,419000.0,Asia
+Israel,2004,74300.0,Asia
+Italy,2004,607000.0,Europe
+Jamaica,2004,9770.0,North America
+Jordan,2004,24200.0,Asia
+Japan,2004,1490000.0,Asia
+Kazakhstan,2004,110000.0,Asia
+Kenya,2004,10700.0,Africa
+Kyrgyz Republic,2004,6370.0,Asia
+Cambodia,2004,4720.0,Asia
+South Korea,2004,521000.0,Asia
+Kuwait,2004,49900.0,Asia
+Lao,2004,1700.0,Asia
+Sri Lanka,2004,17900.0,Asia
+Lithuania,2004,20300.0,Europe
+Luxembourg,2004,12500.0,Europe
+Latvia,2004,14100.0,Europe
+Morocco,2004,47700.0,Africa
+Madagascar,2004,2610.0,Africa
+Mexico,2004,459000.0,North America
+Malta,2004,3150.0,Europe
+Mongolia,2004,8420.0,Asia
+Mozambique,2004,4470.0,Africa
+Mauritius,2004,5000.0,Africa
+Malawi,2004,2020.0,Africa
+Malaysia,2004,147000.0,Asia
+Namibia,2004,6260.0,Africa
+Nigeria,2004,86700.0,Africa
+Nicaragua,2004,5400.0,North America
+Netherlands,2004,194000.0,Europe
+Norway,2004,40400.0,Europe
+Nepal,2004,4240.0,Asia
+New Zealand,2004,40000.0,Oceania
+Oman,2004,21000.0,Asia
+Pakistan,2004,138000.0,Asia
+Panama,2004,1870.0,North America
+Peru,2004,30700.0,South America
+Philippines,2004,90800.0,Asia
+Poland,2004,289000.0,Europe
+Portugal,2004,82500.0,Europe
+Paraguay,2004,5020.0,South America
+Qatar,2004,23200.0,Asia
+Romania,2004,101000.0,Europe
+Russia,2004,1260000.0,Asia
+Rwanda,2004,516.0,Africa
+Saudi Arabia,2004,333000.0,Asia
+Senegal,2004,6090.0,Africa
+Singapore,2004,105000.0,Asia
+El Salvador,2004,8910.0,North America
+Slovak Republic,2004,45000.0,Europe
+Slovenia,2004,18500.0,Europe
+Sweden,2004,85900.0,Europe
+Togo,2004,2370.0,Africa
+Thailand,2004,211000.0,Asia
+Trinidad and Tobago,2004,16200.0,North America
+Tunisia,2004,20100.0,Africa
+Turkey,2004,280000.0,Asia
+Taiwan,2004,282000.0,Asia
+Tanzania,2004,6890.0,Africa
+Uganda,2004,3080.0,Africa
+Ukraine,2004,196000.0,Europe
+Uruguay,2004,7600.0,South America
+United States,2004,6530000.0,North America
+Venezuela,2004,93800.0,South America
+Vietnam,2004,92400.0,Asia
+South Africa,2004,291000.0,Africa
+Zambia,2004,3670.0,Africa
+Zimbabwe,2004,10400.0,Africa
+Albania,2005,5740.0,Europe
+United Arab Emirates,2005,163000.0,Asia
+Argentina,2005,140000.0,South America
+Armenia,2005,5400.0,Europe
+Australia,2005,326000.0,Oceania
+Austria,2005,104000.0,Europe
+Azerbaijan,2005,35700.0,Europe
+Belgium,2005,209000.0,Europe
+Benin,2005,4260.0,Africa
+Burkina Faso,2005,1650.0,Africa
+Bangladesh,2005,48500.0,Asia
+Bulgaria,2005,45700.0,Europe
+Bahrain,2005,13000.0,Asia
+Belarus,2005,59400.0,Europe
+Bolivia,2005,9280.0,South America
+Brazil,2005,346000.0,South America
+Brunei,2005,4030.0,Asia
+Botswana,2005,9610.0,Africa
+Canada,2005,585000.0,North America
+Switzerland,2005,107000.0,Europe
+Chile,2005,59200.0,South America
+China,2005,4830000.0,Asia
+Cote d'Ivoire,2005,8090.0,Africa
+Cameroon,2005,5210.0,Africa
+Colombia,2005,65600.0,South America
+Costa Rica,2005,13700.0,North America
+Cyprus,2005,9680.0,Europe
+Czech Republic,2005,114000.0,Europe
+Germany,2005,1040000.0,Europe
+Denmark,2005,65400.00000000001,Europe
+Dominican Republic,2005,20100.0,North America
+Ecuador,2005,32400.0,South America
+Egypt,2005,169000.0,Africa
+Spain,2005,411000.0,Europe
+Estonia,2005,18500.0,Europe
+Ethiopia,2005,7350.0,Africa
+Finland,2005,80000.0,Europe
+France,2005,543000.0,Europe
+United Kingdom,2005,713000.0,Europe
+Georgia,2005,7370.0,Europe
+Ghana,2005,12400.0,Africa
+Guinea,2005,1830.0,Africa
+Greece,2005,96600.0,Europe
+Guatemala,2005,15200.0,North America
+"Hong Kong, China",2005,88100.0,Asia
+Honduras,2005,9480.0,North America
+Croatia,2005,27500.0,Europe
+Hungary,2005,78000.0,Europe
+Indonesia,2005,336000.0,Asia
+India,2005,1120000.0,Asia
+Ireland,2005,67800.0,Europe
+Iran,2005,440000.0,Asia
+Israel,2005,73100.0,Asia
+Italy,2005,602000.0,Europe
+Jamaica,2005,10400.0,North America
+Jordan,2005,26500.0,Asia
+Japan,2005,1500000.0,Asia
+Kazakhstan,2005,131000.0,Asia
+Kenya,2005,12200.0,Africa
+Kyrgyz Republic,2005,7470.0,Asia
+Cambodia,2005,5810.0,Asia
+South Korea,2005,523000.0,Asia
+Kuwait,2005,56900.0,Asia
+Lao,2005,1710.0,Asia
+Sri Lanka,2005,18800.0,Asia
+Lithuania,2005,20800.0,Europe
+Luxembourg,2005,13700.0,Europe
+Latvia,2005,12500.0,Europe
+Morocco,2005,50200.0,Africa
+Madagascar,2005,3280.0,Africa
+Mexico,2005,495000.0,North America
+Malta,2005,4270.0,Europe
+Mongolia,2005,8650.0,Asia
+Mozambique,2005,5100.0,Africa
+Mauritius,2005,4660.0,Africa
+Malawi,2005,2130.0,Africa
+Malaysia,2005,155000.0,Asia
+Namibia,2005,6030.0,Africa
+Nigeria,2005,91500.0,Africa
+Nicaragua,2005,5500.0,North America
+Netherlands,2005,194000.0,Europe
+Norway,2005,44100.0,Europe
+Nepal,2005,4540.0,Asia
+New Zealand,2005,41600.0,Oceania
+Oman,2005,21800.0,Asia
+Pakistan,2005,149000.0,Asia
+Panama,2005,919.0,North America
+Peru,2005,34900.0,South America
+Philippines,2005,93300.0,Asia
+Poland,2005,284000.0,Europe
+Portugal,2005,86300.0,Europe
+Paraguay,2005,4980.0,South America
+Qatar,2005,29800.0,Asia
+Romania,2005,101000.0,Europe
+Russia,2005,1290000.0,Asia
+Rwanda,2005,515.0,Africa
+Saudi Arabia,2005,344000.0,Asia
+Senegal,2005,6920.0,Africa
+Singapore,2005,128000.0,Asia
+El Salvador,2005,8720.0,North America
+Slovak Republic,2005,45100.0,Europe
+Slovenia,2005,19000.0,Europe
+Sweden,2005,84200.0,Europe
+Togo,2005,2880.0,Africa
+Thailand,2005,222000.0,Asia
+Trinidad and Tobago,2005,13300.0,North America
+Tunisia,2005,19800.0,Africa
+Turkey,2005,301000.0,Asia
+Taiwan,2005,274000.0,Asia
+Tanzania,2005,8070.0,Africa
+Uganda,2005,3530.0,Africa
+Ukraine,2005,222000.0,Europe
+Uruguay,2005,8050.0,South America
+United States,2005,6550000.0,North America
+Venezuela,2005,109000.0,South America
+Vietnam,2005,98600.0,Asia
+South Africa,2005,272000.0,Africa
+Zambia,2005,3730.0,Africa
+Zimbabwe,2005,11300.0,Africa
+Albania,2006,5430.0,Europe
+United Arab Emirates,2006,168000.0,Asia
+Argentina,2006,156000.0,South America
+Armenia,2006,5330.0,Europe
+Australia,2006,345000.0,Oceania
+Austria,2006,106000.0,Europe
+Azerbaijan,2006,41100.0,Europe
+Belgium,2006,218000.0,Europe
+Benin,2006,5790.0,Africa
+Burkina Faso,2006,1730.0,Africa
+Bangladesh,2006,51500.0,Asia
+Bulgaria,2006,50000.0,Europe
+Bahrain,2006,12000.0,Asia
+Belarus,2006,67000.0,Europe
+Bolivia,2006,11700.0,South America
+Brazil,2006,353000.0,South America
+Brunei,2006,4350.0,Asia
+Botswana,2006,8490.0,Africa
+Canada,2006,568000.0,North America
+Switzerland,2006,105000.0,Europe
+Chile,2006,65300.0,South America
+China,2006,5170000.0,Asia
+Cote d'Ivoire,2006,8290.0,Africa
+Cameroon,2006,5470.0,Africa
+Colombia,2006,70500.0,South America
+Costa Rica,2006,11400.0,North America
+Cyprus,2006,9410.0,Europe
+Czech Republic,2006,122000.0,Europe
+Germany,2006,1070000.0,Europe
+Denmark,2006,71800.0,Europe
+Dominican Republic,2006,20900.0,North America
+Ecuador,2006,32600.0,South America
+Egypt,2006,173000.0,Africa
+Spain,2006,423000.0,Europe
+Estonia,2006,19200.0,Europe
+Ethiopia,2006,8060.0,Africa
+Finland,2006,92800.0,Europe
+France,2006,532000.0,Europe
+United Kingdom,2006,725000.0,Europe
+Georgia,2006,8650.0,Europe
+Ghana,2006,14100.0,Africa
+Guinea,2006,1890.0,Africa
+Greece,2006,101000.0,Europe
+Guatemala,2006,15700.0,North America
+"Hong Kong, China",2006,91400.0,Asia
+Honduras,2006,9410.0,North America
+Croatia,2006,31300.0,Europe
+Hungary,2006,83400.0,Europe
+Indonesia,2006,338000.0,Asia
+India,2006,1200000.0,Asia
+Ireland,2006,67000.0,Europe
+Iran,2006,472000.0,Asia
+Israel,2006,77700.0,Asia
+Italy,2006,621000.0,Europe
+Jamaica,2006,11500.0,North America
+Jordan,2006,25500.0,Asia
+Japan,2006,1480000.0,Asia
+Kazakhstan,2006,163000.0,Asia
+Kenya,2006,13800.0,Africa
+Kyrgyz Republic,2006,9710.0,Asia
+Cambodia,2006,6470.0,Asia
+South Korea,2006,544000.0,Asia
+Kuwait,2006,62200.0,Asia
+Lao,2006,2390.0,Asia
+Sri Lanka,2006,18200.0,Asia
+Lithuania,2006,23400.0,Europe
+Luxembourg,2006,16500.0,Europe
+Latvia,2006,14400.0,Europe
+Morocco,2006,52700.0,Africa
+Madagascar,2006,2740.0,Africa
+Mexico,2006,509000.0,North America
+Malta,2006,4870.0,Europe
+Mongolia,2006,9960.0,Asia
+Mozambique,2006,6320.0,Africa
+Mauritius,2006,5080.0,Africa
+Malawi,2006,2030.0,Africa
+Malaysia,2006,156000.0,Asia
+Namibia,2006,5880.0,Africa
+Nigeria,2006,62100.0,Africa
+Nicaragua,2006,5650.0,North America
+Netherlands,2006,213000.0,Europe
+Norway,2006,49000.0,Europe
+Nepal,2006,4220.0,Asia
+New Zealand,2006,39500.0,Oceania
+Oman,2006,34200.0,Asia
+Pakistan,2006,155000.0,Asia
+Panama,2006,787.0,North America
+Peru,2006,31600.0,South America
+Philippines,2006,85600.0,Asia
+Poland,2006,301000.0,Europe
+Portugal,2006,80800.0,Europe
+Paraguay,2006,5430.0,South America
+Qatar,2006,34300.0,Asia
+Romania,2006,112000.0,Europe
+Russia,2006,1310000.0,Asia
+Rwanda,2006,515.0,Africa
+Saudi Arabia,2006,391000.0,Asia
+Senegal,2006,6150.0,Africa
+Singapore,2006,151000.0,Asia
+El Salvador,2006,9000.0,North America
+Slovak Republic,2006,48000.0,Europe
+Slovenia,2006,20800.0,Europe
+Sweden,2006,85900.0,Europe
+Togo,2006,3100.0,Africa
+Thailand,2006,215000.0,Asia
+Trinidad and Tobago,2006,7140.0,North America
+Tunisia,2006,20800.0,Africa
+Turkey,2006,320000.0,Asia
+Taiwan,2006,266000.0,Asia
+Tanzania,2006,9280.0,Africa
+Uganda,2006,4280.0,Africa
+Ukraine,2006,232000.0,Europe
+Uruguay,2006,8730.0,South America
+United States,2006,6560000.0,North America
+Venezuela,2006,107000.0,South America
+Vietnam,2006,106000.0,Asia
+South Africa,2006,311000.0,Africa
+Zambia,2006,4430.0,Africa
+Zimbabwe,2006,11400.0,Africa
+Albania,2007,5500.0,Europe
+United Arab Emirates,2007,203000.0,Asia
+Argentina,2007,161000.0,South America
+Armenia,2007,7470.0,Europe
+Australia,2007,358000.0,Oceania
+Austria,2007,101000.0,Europe
+Azerbaijan,2007,32200.000000000004,Europe
+Belgium,2007,222000.0,Europe
+Benin,2007,6020.0,Africa
+Burkina Faso,2007,2160.0,Africa
+Bangladesh,2007,55500.0,Asia
+Bulgaria,2007,52100.0,Europe
+Bahrain,2007,16500.0,Asia
+Belarus,2007,71600.0,Europe
+Bolivia,2007,9950.0,South America
+Brazil,2007,374000.0,South America
+Brunei,2007,6520.0,Asia
+Botswana,2007,10600.0,Africa
+Canada,2007,596000.0,North America
+Switzerland,2007,113000.0,Europe
+Chile,2007,69500.0,South America
+China,2007,5570000.0,Asia
+Cote d'Ivoire,2007,7590.0,Africa
+Cameroon,2007,6220.0,Africa
+Colombia,2007,71800.0,South America
+Costa Rica,2007,12900.0,North America
+Cyprus,2007,10500.0,Europe
+Czech Republic,2007,127000.0,Europe
+Germany,2007,1010000.0,Europe
+Denmark,2007,68400.0,Europe
+Dominican Republic,2007,23500.0,North America
+Ecuador,2007,36800.0,South America
+Egypt,2007,179000.0,Africa
+Spain,2007,433000.0,Europe
+Estonia,2007,20600.0,Europe
+Ethiopia,2007,8230.0,Africa
+Finland,2007,93500.0,Europe
+France,2007,550000.0,Europe
+United Kingdom,2007,729000.0,Europe
+Georgia,2007,9420.0,Europe
+Ghana,2007,15100.0,Africa
+Guinea,2007,1970.0,Africa
+Greece,2007,98600.0,Europe
+Guatemala,2007,15700.0,North America
+"Hong Kong, China",2007,77800.0,Asia
+Honduras,2007,10500.0,North America
+Croatia,2007,30800.0,Europe
+Hungary,2007,81100.0,Europe
+Indonesia,2007,366000.0,Asia
+India,2007,1300000.0,Asia
+Ireland,2007,66500.0,Europe
+Iran,2007,504000.0,Asia
+Israel,2007,78400.0,Asia
+Italy,2007,612000.0,Europe
+Jamaica,2007,10200.0,North America
+Jordan,2007,25900.0,Asia
+Japan,2007,1500000.0,Asia
+Kazakhstan,2007,172000.0,Asia
+Kenya,2007,14200.0,Africa
+Kyrgyz Republic,2007,7200.0,Asia
+Cambodia,2007,7110.0,Asia
+South Korea,2007,566000.0,Asia
+Kuwait,2007,68300.0,Asia
+Lao,2007,2570.0,Asia
+Sri Lanka,2007,18100.0,Asia
+Lithuania,2007,24800.0,Europe
+Luxembourg,2007,10900.0,Europe
+Latvia,2007,15900.0,Europe
+Morocco,2007,55300.0,Africa
+Madagascar,2007,3040.0,Africa
+Mexico,2007,493000.0,North America
+Malta,2007,3390.0,Europe
+Mongolia,2007,12300.0,Asia
+Mozambique,2007,7230.0,Africa
+Mauritius,2007,4890.0,Africa
+Malawi,2007,2020.0,Africa
+Malaysia,2007,160000.0,Asia
+Namibia,2007,6720.0,Africa
+Nigeria,2007,85600.0,Africa
+Nicaragua,2007,5920.0,North America
+Netherlands,2007,178000.0,Europe
+Norway,2007,53800.0,Europe
+Nepal,2007,4580.0,Asia
+New Zealand,2007,40300.0,Oceania
+Oman,2007,38700.0,Asia
+Pakistan,2007,164000.0,Asia
+Panama,2007,1140.0,North America
+Peru,2007,37000.0,South America
+Philippines,2007,90100.0,Asia
+Poland,2007,312000.0,Europe
+Portugal,2007,75800.0,Europe
+Paraguay,2007,5760.0,South America
+Qatar,2007,37700.0,Asia
+Romania,2007,108000.0,Europe
+Russia,2007,1350000.0,Asia
+Rwanda,2007,543.0,Africa
+Saudi Arabia,2007,361000.0,Asia
+Senegal,2007,6640.0,Africa
+Singapore,2007,94800.0,Asia
+El Salvador,2007,9080.0,North America
+Slovak Republic,2007,48700.0,Europe
+Slovenia,2007,21400.0,Europe
+Sweden,2007,88800.0,Europe
+Togo,2007,4260.0,Africa
+Thailand,2007,214000.0,Asia
+Trinidad and Tobago,2007,14700.0,North America
+Tunisia,2007,21100.0,Africa
+Turkey,2007,362000.0,Asia
+Taiwan,2007,285000.0,Asia
+Tanzania,2007,8890.0,Africa
+Uganda,2007,4430.0,Africa
+Ukraine,2007,256000.0,Europe
+Uruguay,2007,8560.0,South America
+United States,2007,6590000.0,North America
+Venezuela,2007,115000.0,South America
+Vietnam,2007,114000.0,Asia
+South Africa,2007,319000.0,Africa
+Zambia,2007,5190.0,Africa
+Zimbabwe,2007,12700.0,Africa
+Albania,2008,6130.0,Europe
+United Arab Emirates,2008,244000.0,Asia
+Argentina,2008,177000.0,South America
+Armenia,2008,6500.0,Europe
+Australia,2008,367000.0,Oceania
+Austria,2008,99400.0,Europe
+Azerbaijan,2008,36300.0,Europe
+Belgium,2008,205000.0,Europe
+Benin,2008,6630.0,Africa
+Burkina Faso,2008,2370.0,Africa
+Bangladesh,2008,56400.0,Asia
+Bulgaria,2008,53300.0,Europe
+Bahrain,2008,20000.0,Asia
+Belarus,2008,77600.0,Europe
+Bolivia,2008,11400.0,South America
+Brazil,2008,421000.0,South America
+Brunei,2008,7110.0,Asia
+Botswana,2008,11600.0,Africa
+Canada,2008,589000.0,North America
+Switzerland,2008,114000.0,Europe
+Chile,2008,74200.0,South America
+China,2008,5990000.0,Asia
+Cote d'Ivoire,2008,8600.0,Africa
+Cameroon,2008,6810.0,Africa
+Colombia,2008,77500.0,South America
+Costa Rica,2008,13000.0,North America
+Cyprus,2008,12000.0,Europe
+Czech Republic,2008,127000.0,Europe
+Germany,2008,1000000.0,Europe
+Denmark,2008,65600.0,Europe
+Dominican Republic,2008,24400.0,North America
+Ecuador,2008,38500.0,South America
+Egypt,2008,190000.0,Africa
+Spain,2008,401000.0,Europe
+Estonia,2008,17000.0,Europe
+Ethiopia,2008,9380.0,Africa
+Finland,2008,83100.0,Europe
+France,2008,538000.0,Europe
+United Kingdom,2008,695000.0,Europe
+Georgia,2008,8900.0,Europe
+Ghana,2008,14900.0,Africa
+Guinea,2008,2000.0,Africa
+Greece,2008,99000.0,Europe
+Guatemala,2008,15000.0,North America
+"Hong Kong, China",2008,88300.0,Asia
+Honduras,2008,10400.0,North America
+Croatia,2008,30000.0,Europe
+Hungary,2008,80300.0,Europe
+Indonesia,2008,412000.0,Asia
+India,2008,1430000.0,Asia
+Ireland,2008,60700.0,Europe
+Iran,2008,512000.0,Asia
+Israel,2008,81900.0,Asia
+Italy,2008,606000.0,Europe
+Jamaica,2008,10300.0,North America
+Jordan,2008,28800.0,Asia
+Japan,2008,1460000.0,Asia
+Kazakhstan,2008,172000.0,Asia
+Kenya,2008,14800.0,Africa
+Kyrgyz Republic,2008,7740.0,Asia
+Cambodia,2008,7790.0,Asia
+South Korea,2008,597000.0,Asia
+Kuwait,2008,74700.0,Asia
+Lao,2008,2970.0,Asia
+Sri Lanka,2008,19800.0,Asia
+Lithuania,2008,23700.0,Europe
+Luxembourg,2008,24100.0,Europe
+Latvia,2008,15200.0,Europe
+Morocco,2008,61100.0,Africa
+Madagascar,2008,3770.0,Africa
+Mexico,2008,509000.0,North America
+Malta,2008,5210.0,Europe
+Mongolia,2008,12900.0,Asia
+Mozambique,2008,7960.0,Africa
+Mauritius,2008,5170.0,Africa
+Malawi,2008,2430.0,Africa
+Malaysia,2008,180000.0,Asia
+Namibia,2008,7640.0,Africa
+Nigeria,2008,82100.0,Africa
+Nicaragua,2008,5490.0,North America
+Netherlands,2008,182000.0,Europe
+Norway,2008,52800.0,Europe
+Nepal,2008,5470.0,Asia
+New Zealand,2008,41700.0,Oceania
+Oman,2008,40800.0,Asia
+Pakistan,2008,164000.0,Asia
+Panama,2008,5250.0,North America
+Peru,2008,47600.0,South America
+Philippines,2008,97700.0,Asia
+Poland,2008,311000.0,Europe
+Portugal,2008,74200.0,Europe
+Paraguay,2008,7110.0,South America
+Qatar,2008,44900.0,Asia
+Romania,2008,113000.0,Europe
+Russia,2008,1400000.0,Asia
+Rwanda,2008,528.0,Africa
+Saudi Arabia,2008,412000.0,Asia
+Senegal,2008,6950.0,Africa
+Singapore,2008,109000.0,Asia
+El Salvador,2008,8960.0,North America
+Slovak Republic,2008,51800.0,Europe
+Slovenia,2008,21700.0,Europe
+Sweden,2008,84800.0,Europe
+Togo,2008,3690.0,Africa
+Thailand,2008,224000.0,Asia
+Trinidad and Tobago,2008,13600.0,North America
+Tunisia,2008,23500.0,Africa
+Turkey,2008,356000.0,Asia
+Taiwan,2008,268000.0,Asia
+Tanzania,2008,10300.0,Africa
+Uganda,2008,4940.0,Africa
+Ukraine,2008,257000.0,Europe
+Uruguay,2008,10800.0,South America
+United States,2008,6320000.0,North America
+Venezuela,2008,135000.0,South America
+Vietnam,2008,130000.0,Asia
+South Africa,2008,341000.0,Africa
+Zambia,2008,6510.0,Africa
+Zimbabwe,2008,10400.0,Africa
+Albania,2009,6370.0,Europe
+United Arab Emirates,2009,200000.0,Asia
+Argentina,2009,165000.0,South America
+Armenia,2009,5930.0,Europe
+Australia,2009,376000.0,Oceania
+Austria,2009,92500.0,Europe
+Azerbaijan,2009,31900.0,Europe
+Belgium,2009,181000.0,Europe
+Benin,2009,6610.0,Africa
+Burkina Faso,2009,2740.0,Africa
+Bangladesh,2009,61800.0,Asia
+Bulgaria,2009,43500.0,Europe
+Bahrain,2009,19500.0,Asia
+Belarus,2009,56500.0,Europe
+Bolivia,2009,12700.0,South America
+Brazil,2009,386000.0,South America
+Brunei,2009,5160.0,Asia
+Botswana,2009,5480.0,Africa
+Canada,2009,563000.0,North America
+Switzerland,2009,110000.0,Europe
+Chile,2009,62900.0,South America
+China,2009,6630000.0,Asia
+Cote d'Ivoire,2009,7620.0,Africa
+Cameroon,2009,7840.0,Africa
+Colombia,2009,78600.0,South America
+Costa Rica,2009,11300.0,North America
+Cyprus,2009,13000.0,Europe
+Czech Republic,2009,115000.0,Europe
+Germany,2009,935000.0,Europe
+Denmark,2009,61200.0,Europe
+Dominican Republic,2009,22600.0,North America
+Ecuador,2009,39900.0,South America
+Egypt,2009,202000.0,Africa
+Spain,2009,352000.0,Europe
+Estonia,2009,14900.0,Europe
+Ethiopia,2009,11000.0,Africa
+Finland,2009,73200.0,Europe
+France,2009,517000.0,Europe
+United Kingdom,2009,659000.0,Europe
+Georgia,2009,7760.0,Europe
+Ghana,2009,13300.0,Africa
+Guinea,2009,2110.0,Africa
+Greece,2009,111000.0,Europe
+Guatemala,2009,14700.0,North America
+"Hong Kong, China",2009,83700.0,Asia
+Honduras,2009,9480.0,North America
+Croatia,2009,26600.0,Europe
+Hungary,2009,68500.0,Europe
+Indonesia,2009,445000.0,Asia
+India,2009,1630000.0,Asia
+Ireland,2009,50900.0,Europe
+Iran,2009,511000.0,Asia
+Israel,2009,77000.0,Asia
+Italy,2009,548000.0,Europe
+Jamaica,2009,7750.0,North America
+Jordan,2009,31100.0,Asia
+Japan,2009,1360000.0,Asia
+Kazakhstan,2009,150000.0,Asia
+Kenya,2009,18500.0,Africa
+Kyrgyz Republic,2009,12800.0,Asia
+Cambodia,2009,8050.0,Asia
+South Korea,2009,553000.0,Asia
+Kuwait,2009,70600.0,Asia
+Lao,2009,3790.0,Asia
+Sri Lanka,2009,19900.0,Asia
+Lithuania,2009,20600.0,Europe
+Luxembourg,2009,25200.0,Europe
+Latvia,2009,13100.0,Europe
+Morocco,2009,58200.0,Africa
+Madagascar,2009,3660.0,Africa
+Mexico,2009,499000.0,North America
+Malta,2009,5310.0,Europe
+Mongolia,2009,13400.0,Asia
+Mozambique,2009,9550.0,Africa
+Mauritius,2009,5090.0,Africa
+Malawi,2009,2810.0,Africa
+Malaysia,2009,174000.0,Asia
+Namibia,2009,4500.0,Africa
+Nigeria,2009,82700.0,Africa
+Nicaragua,2009,5720.0,North America
+Netherlands,2009,178000.0,Europe
+Norway,2009,48900.0,Europe
+Nepal,2009,7700.0,Asia
+New Zealand,2009,36400.0,Oceania
+Oman,2009,41700.0,Asia
+Pakistan,2009,165000.0,Asia
+Panama,2009,15500.0,North America
+Peru,2009,50800.0,South America
+Philippines,2009,95000.0,Asia
+Poland,2009,304000.0,Europe
+Portugal,2009,67600.0,Europe
+Paraguay,2009,6940.0,South America
+Qatar,2009,51300.0,Asia
+Romania,2009,91500.0,Europe
+Russia,2009,1260000.0,Asia
+Rwanda,2009,559.0,Africa
+Saudi Arabia,2009,436000.0,Asia
+Senegal,2009,5920.0,Africa
+Singapore,2009,107000.0,Asia
+El Salvador,2009,8090.0,North America
+Slovak Republic,2009,47200.0,Europe
+Slovenia,2009,19900.0,Europe
+Sweden,2009,74700.0,Europe
+Togo,2009,4270.0,Africa
+Thailand,2009,228000.0,Asia
+Trinidad and Tobago,2009,22400.0,North America
+Tunisia,2009,23200.0,Africa
+Turkey,2009,342000.0,Asia
+Taiwan,2009,247000.0,Asia
+Tanzania,2009,10500.0,Africa
+Uganda,2009,5710.0,Africa
+Ukraine,2009,231000.0,Europe
+Uruguay,2009,10100.0,South America
+United States,2009,5830000.0,North America
+Venezuela,2009,158000.0,South America
+Vietnam,2009,138000.0,Asia
+South Africa,2009,354000.0,Africa
+Zambia,2009,6000.0,Africa
+Zimbabwe,2009,8200.0,Africa
+Albania,2010,6140.0,Europe
+United Arab Emirates,2010,195000.0,Asia
+Argentina,2010,177000.0,South America
+Armenia,2010,5540.0,Europe
+Australia,2010,384000.0,Oceania
+Austria,2010,97200.0,Europe
+Azerbaijan,2010,30800.0,Europe
+Belgium,2010,193000.0,Europe
+Benin,2010,7000.0,Africa
+Burkina Faso,2010,2900.0,Africa
+Bangladesh,2010,70000.0,Asia
+Bulgaria,2010,43000.0,Europe
+Bahrain,2010,21000.0,Asia
+Belarus,2010,63300.0,Europe
+Bolivia,2010,13500.0,South America
+Brazil,2010,459000.0,South America
+Brunei,2010,5620.0,Asia
+Botswana,2010,5920.0,Africa
+Canada,2010,595000.0,North America
+Switzerland,2010,108000.0,Europe
+Chile,2010,73000.0,South America
+China,2010,7240000.0,Asia
+Cote d'Ivoire,2010,8200.0,Africa
+Cameroon,2010,8110.0,Africa
+Colombia,2010,84600.0,South America
+Costa Rica,2010,11800.0,North America
+Cyprus,2010,12900.0,Europe
+Czech Republic,2010,120000.0,Europe
+Germany,2010,979000.0,Europe
+Denmark,2010,62200.0,Europe
+Dominican Republic,2010,23700.0,North America
+Ecuador,2010,42500.0,South America
+Egypt,2010,200000.0,Africa
+Spain,2010,344000.0,Europe
+Estonia,2010,17500.0,Europe
+Ethiopia,2010,9650.0,Africa
+Finland,2010,83600.0,Europe
+France,2010,515000.0,Europe
+United Kingdom,2010,682000.0,Europe
+Georgia,2010,8140.0,Europe
+Ghana,2010,14800.0,Africa
+Guinea,2010,2490.0,Africa
+Greece,2010,97600.0,Europe
+Guatemala,2010,15200.0,North America
+"Hong Kong, China",2010,89600.0,Asia
+Honduras,2010,9790.0,North America
+Croatia,2010,24900.0,Europe
+Hungary,2010,69600.0,Europe
+Indonesia,2010,434000.0,Asia
+India,2010,1610000.0,Asia
+Ireland,2010,47900.0,Europe
+Iran,2010,541000.0,Asia
+Israel,2010,82500.0,Asia
+Italy,2010,570000.0,Europe
+Jamaica,2010,7450.0,North America
+Jordan,2010,27500.0,Asia
+Japan,2010,1410000.0,Asia
+Kazakhstan,2010,149000.0,Asia
+Kenya,2010,17600.0,Africa
+Kyrgyz Republic,2010,11800.0,Asia
+Cambodia,2010,9880.0,Asia
+South Korea,2010,619000.0,Asia
+Kuwait,2010,75300.0,Asia
+Lao,2010,4240.0,Asia
+Sri Lanka,2010,20900.0,Asia
+Lithuania,2010,20800.0,Europe
+Luxembourg,2010,24300.0,Europe
+Latvia,2010,13000.0,Europe
+Morocco,2010,61400.0,Africa
+Madagascar,2010,3430.0,Africa
+Mexico,2010,493000.0,North America
+Malta,2010,4890.0,Europe
+Mongolia,2010,14600.0,Asia
+Mozambique,2010,8900.0,Africa
+Mauritius,2010,4980.0,Africa
+Malawi,2010,2800.0,Africa
+Malaysia,2010,194000.0,Asia
+Namibia,2010,4260.0,Africa
+Nigeria,2010,91900.0,Africa
+Nicaragua,2010,5860.0,North America
+Netherlands,2010,184000.0,Europe
+Norway,2010,51100.0,Europe
+Nepal,2010,9600.0,Asia
+New Zealand,2010,37000.0,Oceania
+Oman,2010,41200.0,Asia
+Pakistan,2010,172000.0,Asia
+Panama,2010,22300.0,North America
+Peru,2010,60700.0,South America
+Philippines,2010,104000.0,Asia
+Poland,2010,320000.0,Europe
+Portugal,2010,65600.0,Europe
+Paraguay,2010,8290.0,South America
+Qatar,2010,53900.0,Asia
+Romania,2010,90400.0,Europe
+Russia,2010,1340000.0,Asia
+Rwanda,2010,574.0,Africa
+Saudi Arabia,2010,488000.0,Asia
+Senegal,2010,8110.0,Africa
+Singapore,2010,115000.0,Asia
+El Salvador,2010,8280.0,North America
+Slovak Republic,2010,49200.0,Europe
+Slovenia,2010,20600.0,Europe
+Sweden,2010,84900.0,Europe
+Togo,2010,4590.0,Africa
+Thailand,2010,249000.0,Asia
+Trinidad and Tobago,2010,23100.0,North America
+Tunisia,2010,25100.0,Africa
+Turkey,2010,366000.0,Asia
+Taiwan,2010,277000.0,Asia
+Tanzania,2010,11500.0,Africa
+Uganda,2010,6110.0,Africa
+Ukraine,2010,247000.0,Europe
+Uruguay,2010,10100.0,South America
+United States,2010,6040000.0,North America
+Venezuela,2010,167000.0,South America
+Vietnam,2010,153000.0,Asia
+South Africa,2010,332000.0,Africa
+Zambia,2010,5690.0,Africa
+Zimbabwe,2010,9100.0,Africa
+Albania,2011,6350.0,Europe
+United Arab Emirates,2011,217000.0,Asia
+Argentina,2011,185000.0,South America
+Armenia,2011,5730.0,Europe
+Australia,2011,391000.0,Oceania
+Austria,2011,99200.0,Europe
+Azerbaijan,2011,34100.0,Europe
+Belgium,2011,202000.0,Europe
+Benin,2011,8660.0,Africa
+Burkina Faso,2011,2790.0,Africa
+Bangladesh,2011,75000.0,Asia
+Bulgaria,2011,46500.0,Europe
+Bahrain,2011,17900.0,Asia
+Belarus,2011,57500.0,Europe
+Bolivia,2011,14900.0,South America
+Brazil,2011,486000.0,South America
+Brunei,2011,7150.0,Asia
+Botswana,2011,5180.0,Africa
+Canada,2011,565000.0,North America
+Switzerland,2011,117000.0,Europe
+Chile,2011,81300.0,South America
+China,2011,7950000.0,Asia
+Cote d'Ivoire,2011,8250.0,Africa
+Cameroon,2011,8360.0,Africa
+Colombia,2011,87800.0,South America
+Costa Rica,2011,12600.0,North America
+Cyprus,2011,11200.0,Europe
+Czech Republic,2011,118000.0,Europe
+Germany,2011,973000.0,Europe
+Denmark,2011,59800.0,Europe
+Dominican Republic,2011,24100.0,North America
+Ecuador,2011,43700.0,South America
+Egypt,2011,211000.0,Africa
+Spain,2011,337000.0,Europe
+Estonia,2011,18800.0,Europe
+Ethiopia,2011,10200.0,Africa
+Finland,2011,75700.0,Europe
+France,2011,531000.0,Europe
+United Kingdom,2011,629000.0,Europe
+Georgia,2011,9160.0,Europe
+Ghana,2011,18500.0,Africa
+Guinea,2011,2600.0,Africa
+Greece,2011,87400.0,Europe
+Guatemala,2011,16200.0,North America
+"Hong Kong, China",2011,80300.0,Asia
+Honduras,2011,10000.0,North America
+Croatia,2011,27200.0,Europe
+Hungary,2011,68500.0,Europe
+Indonesia,2011,509000.0,Asia
+India,2011,1690000.0,Asia
+Ireland,2011,45700.0,Europe
+Iran,2011,554000.0,Asia
+Israel,2011,83000.0,Asia
+Italy,2011,564000.0,Europe
+Jamaica,2011,8400.0,North America
+Jordan,2011,28000.0,Asia
+Japan,2011,1490000.0,Asia
+Kazakhstan,2011,155000.0,Asia
+Kenya,2011,19400.0,Africa
+Kyrgyz Republic,2011,12800.0,Asia
+Cambodia,2011,10600.0,Asia
+South Korea,2011,636000.0,Asia
+Kuwait,2011,72700.0,Asia
+Lao,2011,4990.0,Asia
+Sri Lanka,2011,25700.0,Asia
+Lithuania,2011,23600.0,Europe
+Luxembourg,2011,10400.0,Europe
+Latvia,2011,12600.0,Europe
+Morocco,2011,63200.0,Africa
+Madagascar,2011,3760.0,Africa
+Mexico,2011,504000.0,North America
+Malta,2011,5560.0,Europe
+Mongolia,2011,23400.0,Asia
+Mozambique,2011,10100.0,Africa
+Mauritius,2011,5410.0,Africa
+Malawi,2011,2620.0,Africa
+Malaysia,2011,201000.0,Asia
+Namibia,2011,4020.0,Africa
+Nigeria,2011,97200.0,Africa
+Nicaragua,2011,6200.0,North America
+Netherlands,2011,171000.0,Europe
+Norway,2011,52400.0,Europe
+Nepal,2011,10300.0,Asia
+New Zealand,2011,38300.0,Oceania
+Oman,2011,45700.0,Asia
+Pakistan,2011,175000.0,Asia
+Panama,2011,14800.0,North America
+Peru,2011,56100.0,South America
+Philippines,2011,106000.0,Asia
+Poland,2011,323000.0,Europe
+Portugal,2011,62800.0,Europe
+Paraguay,2011,8140.0,South America
+Qatar,2011,55100.0,Asia
+Romania,2011,93400.0,Europe
+Russia,2011,1420000.0,Asia
+Rwanda,2011,648.0,Africa
+Saudi Arabia,2011,477000.0,Asia
+Senegal,2011,8780.0,Africa
+Singapore,2011,110000.0,Asia
+El Salvador,2011,8780.0,North America
+Slovak Republic,2011,49800.0,Europe
+Slovenia,2011,22400.0,Europe
+Sweden,2011,80500.0,Europe
+Togo,2011,4440.0,Africa
+Thailand,2011,256000.0,Asia
+Trinidad and Tobago,2011,20300.0,North America
+Tunisia,2011,24000.0,Africa
+Turkey,2011,388000.0,Asia
+Taiwan,2011,271000.0,Asia
+Tanzania,2011,13700.0,Africa
+Uganda,2011,6410.0,Africa
+Ukraine,2011,269000.0,Europe
+Uruguay,2011,11500.0,South America
+United States,2011,6010000.0,North America
+Venezuela,2011,155000.0,South America
+Vietnam,2011,162000.0,Asia
+South Africa,2011,344000.0,Africa
+Zambia,2011,7110.0,Africa
+Zimbabwe,2011,10200.0,Africa
+Albania,2012,6060.0,Europe
+United Arab Emirates,2012,238000.0,Asia
+Argentina,2012,187000.0,South America
+Armenia,2012,6330.0,Europe
+Australia,2012,401000.0,Oceania
+Austria,2012,94100.0,Europe
+Azerbaijan,2012,37300.0,Europe
+Belgium,2012,183000.0,Europe
+Benin,2012,7380.0,Africa
+Burkina Faso,2012,3010.0,Africa
+Bangladesh,2012,78400.0,Asia
+Bulgaria,2012,44400.0,Europe
+Bahrain,2012,14500.0,Asia
+Belarus,2012,69800.0,Europe
+Bolivia,2012,16400.0,South America
+Brazil,2012,516000.0,South America
+Brunei,2012,7840.0,Asia
+Botswana,2012,5710.0,Africa
+Canada,2012,603000.0,North America
+Switzerland,2012,113000.0,Europe
+Chile,2012,87100.0,South America
+China,2012,8199999.999999999,Asia
+Cote d'Ivoire,2012,9970.0,Africa
+Cameroon,2012,8780.0,Africa
+Colombia,2012,92600.0,South America
+Costa Rica,2012,13000.0,North America
+Cyprus,2012,9300.0,Europe
+Czech Republic,2012,110000.0,Europe
+Germany,2012,925000.0,Europe
+Denmark,2012,54600.0,Europe
+Dominican Republic,2012,25200.0,North America
+Ecuador,2012,41100.0,South America
+Egypt,2012,220000.0,Africa
+Spain,2012,316000.0,Europe
+Estonia,2012,17800.0,Europe
+Ethiopia,2012,13800.0,Africa
+Finland,2012,72300.0,Europe
+France,2012,479000.0,Europe
+United Kingdom,2012,642000.0,Europe
+Georgia,2012,10200.0,Europe
+Ghana,2012,22600.0,Africa
+Guinea,2012,2420.0,Africa
+Greece,2012,82300.0,Europe
+Guatemala,2012,17000.0,North America
+"Hong Kong, China",2012,114000.0,Asia
+Honduras,2012,11500.0,North America
+Croatia,2012,22500.0,Europe
+Hungary,2012,63300.0,Europe
+Indonesia,2012,541000.0,Asia
+India,2012,1830000.0,Asia
+Ireland,2012,45100.0,Europe
+Iran,2012,570000.0,Asia
+Israel,2012,90100.0,Asia
+Italy,2012,511000.0,Europe
+Jamaica,2012,8580.0,North America
+Jordan,2012,28000.0,Asia
+Japan,2012,1540000.0,Asia
+Kazakhstan,2012,178000.0,Asia
+Kenya,2012,19200.0,Africa
+Kyrgyz Republic,2012,15800.0,Asia
+Cambodia,2012,10600.0,Asia
+South Korea,2012,622000.0,Asia
+Kuwait,2012,78800.0,Asia
+Lao,2012,5750.0,Asia
+Sri Lanka,2012,27300.0,Asia
+Lithuania,2012,22200.0,Europe
+Luxembourg,2012,23600.0,Europe
+Latvia,2012,13000.0,Europe
+Morocco,2012,64500.0,Africa
+Madagascar,2012,4260.0,Africa
+Mexico,2012,537000.0,North America
+Malta,2012,6630.0,Europe
+Mongolia,2012,35100.0,Asia
+Mozambique,2012,10700.0,Africa
+Mauritius,2012,5230.0,Africa
+Malawi,2012,2250.0,Africa
+Malaysia,2012,215000.0,Asia
+Namibia,2012,5310.0,Africa
+Nigeria,2012,88200.0,Africa
+Nicaragua,2012,6410.0,North America
+Netherlands,2012,166000.0,Europe
+Norway,2012,51500.0,Europe
+Nepal,2012,10300.0,Asia
+New Zealand,2012,39300.0,Oceania
+Oman,2012,58800.0,Asia
+Pakistan,2012,178000.0,Asia
+Panama,2012,24300.0,North America
+Peru,2012,62600.0,South America
+Philippines,2012,113000.0,Asia
+Poland,2012,316000.0,Europe
+Portugal,2012,57500.0,Europe
+Paraguay,2012,8580.0,South America
+Qatar,2012,67000.0,Asia
+Romania,2012,88400.0,Europe
+Russia,2012,1470000.0,Asia
+Rwanda,2012,719.0,Africa
+Saudi Arabia,2012,532000.0,Asia
+Senegal,2012,9150.0,Africa
+Singapore,2012,121000.0,Asia
+El Salvador,2012,8750.0,North America
+Slovak Republic,2012,46300.0,Europe
+Slovenia,2012,19200.0,Europe
+Sweden,2012,76500.0,Europe
+Togo,2012,7840.0,Africa
+Thailand,2012,277000.0,Asia
+Trinidad and Tobago,2012,21200.0,North America
+Tunisia,2012,23500.0,Africa
+Turkey,2012,398000.0,Asia
+Taiwan,2012,268000.0,Asia
+Tanzania,2012,15900.0,Africa
+Uganda,2012,6580.0,Africa
+Ukraine,2012,273000.0,Europe
+Uruguay,2012,13500.0,South America
+United States,2012,5790000.0,North America
+Venezuela,2012,180000.0,South America
+Vietnam,2012,157000.0,Asia
+South Africa,2012,343000.0,Africa
+Zambia,2012,6720.0,Africa
+Zimbabwe,2012,10600.0,Africa
+Albania,2013,5870.0,Europe
+United Arab Emirates,2013,245000.0,Asia
+Argentina,2013,193000.0,South America
+Armenia,2013,6170.0,Europe
+Australia,2013,382000.0,Oceania
+Austria,2013,93100.0,Europe
+Azerbaijan,2013,38500.0,Europe
+Belgium,2013,182000.0,Europe
+Benin,2013,7820.0,Africa
+Burkina Faso,2013,4020.0,Africa
+Bangladesh,2013,85300.0,Asia
+Bulgaria,2013,38700.0,Europe
+Bahrain,2013,17000.0,Asia
+Belarus,2013,72100.0,Europe
+Bolivia,2013,16800.0,South America
+Brazil,2013,553000.0,South America
+Brunei,2013,8160.0,Asia
+Botswana,2013,15300.0,Africa
+Canada,2013,612000.0,North America
+Switzerland,2013,126000.0,Europe
+Chile,2013,87900.0,South America
+China,2013,8320000.0,Asia
+Cote d'Ivoire,2013,14800.0,Africa
+Cameroon,2013,9390.0,Africa
+Colombia,2013,103000.0,South America
+Costa Rica,2013,12500.0,North America
+Cyprus,2013,7780.0,Europe
+Czech Republic,2013,108000.0,Europe
+Germany,2013,924000.0,Europe
+Denmark,2013,56200.0,Europe
+Dominican Republic,2013,23300.0,North America
+Ecuador,2013,48700.0,South America
+Egypt,2013,211000.0,Africa
+Spain,2013,289000.0,Europe
+Estonia,2013,18300.0,Europe
+Ethiopia,2013,16200.0,Africa
+Finland,2013,69600.0,Europe
+France,2013,474000.0,Europe
+United Kingdom,2013,623000.0,Europe
+Georgia,2013,10300.0,Europe
+Ghana,2013,21200.0,Africa
+Guinea,2013,2110.0,Africa
+Greece,2013,72200.0,Europe
+Guatemala,2013,17500.0,North America
+"Hong Kong, China",2013,122000.0,Asia
+Honduras,2013,11300.0,North America
+Croatia,2013,21900.0,Europe
+Hungary,2013,62500.0,Europe
+Indonesia,2013,446000.0,Asia
+India,2013,1800000.0,Asia
+Ireland,2013,44600.0,Europe
+Iran,2013,578000.0,Asia
+Israel,2013,81400.0,Asia
+Italy,2013,478000.0,Europe
+Jamaica,2013,8600.0,North America
+Jordan,2013,33700.0,Asia
+Japan,2013,1520000.0,Asia
+Kazakhstan,2013,192000.0,Asia
+Kenya,2013,22500.0,Africa
+Kyrgyz Republic,2013,16000.0,Asia
+Cambodia,2013,12800.0,Asia
+South Korea,2013,624000.0,Asia
+Kuwait,2013,83500.0,Asia
+Lao,2013,7410.0,Asia
+Sri Lanka,2013,26500.0,Asia
+Lithuania,2013,22000.0,Europe
+Luxembourg,2013,23400.0,Europe
+Latvia,2013,12700.0,Europe
+Morocco,2013,63800.0,Africa
+Madagascar,2013,4760.0,Africa
+Mexico,2013,536000.0,North America
+Malta,2013,5050.0,Europe
+Mongolia,2013,41600.0,Asia
+Mozambique,2013,13300.0,Africa
+Mauritius,2013,5310.0,Africa
+Malawi,2013,3190.0,Africa
+Malaysia,2013,239000.0,Asia
+Namibia,2013,7910.0,Africa
+Nigeria,2013,111000.0,Africa
+Nicaragua,2013,5800.0,North America
+Netherlands,2013,162000.0,Europe
+Norway,2013,50100.0,Europe
+Nepal,2013,12800.0,Asia
+New Zealand,2013,39400.0,Oceania
+Oman,2013,62200.0,Asia
+Pakistan,2013,182000.0,Asia
+Panama,2013,21000.0,North America
+Peru,2013,57700.0,South America
+Philippines,2013,124000.0,Asia
+Poland,2013,307000.0,Europe
+Portugal,2013,55300.0,Europe
+Paraguay,2013,8820.0,South America
+Qatar,2013,61800.0,Asia
+Romania,2013,77500.0,Europe
+Russia,2013,1410000.0,Asia
+Rwanda,2013,783.0,Africa
+Saudi Arabia,2013,542000.0,Asia
+Senegal,2013,9440.0,Africa
+Singapore,2013,121000.0,Asia
+El Salvador,2013,8550.0,North America
+Slovak Republic,2013,47300.0,Europe
+Slovenia,2013,19000.0,Europe
+Sweden,2013,73100.0,Europe
+Togo,2013,6740.0,Africa
+Thailand,2013,284000.0,Asia
+Trinidad and Tobago,2013,24900.0,North America
+Tunisia,2013,25200.0,Africa
+Turkey,2013,401000.0,Asia
+Taiwan,2013,263000.0,Asia
+Tanzania,2013,19300.0,Africa
+Uganda,2013,6820.0,Africa
+Ukraine,2013,273000.0,Europe
+Uruguay,2013,12800.0,South America
+United States,2013,5900000.0,North America
+Venezuela,2013,171000.0,South America
+Vietnam,2013,182000.0,Asia
+South Africa,2013,342000.0,Africa
+Zambia,2013,8340.0,Africa
+Zimbabwe,2013,12100.0,Africa
+Albania,2014,6300.0,Europe
+United Arab Emirates,2014,255000.0,Asia
+Argentina,2014,197000.0,South America
+Armenia,2014,6120.0,Europe
+Australia,2014,375000.0,Oceania
+Austria,2014,89800.0,Europe
+Azerbaijan,2014,40500.0,Europe
+Belgium,2014,179000.0,Europe
+Benin,2014,7600.0,Africa
+Burkina Faso,2014,4090.0,Africa
+Bangladesh,2014,90300.0,Asia
+Bulgaria,2014,39900.0,Europe
+Bahrain,2014,17900.0,Asia
+Belarus,2014,70500.0,Europe
+Bolivia,2014,17500.0,South America
+Brazil,2014,581000.0,South America
+Brunei,2014,8700.0,Asia
+Botswana,2014,16600.0,Africa
+Canada,2014,610000.0,North America
+Switzerland,2014,123000.0,Europe
+Chile,2014,85600.0,South America
+China,2014,8320000.0,Asia
+Cote d'Ivoire,2014,15400.0,Africa
+Cameroon,2014,11300.0,Africa
+Colombia,2014,99800.0,South America
+Costa Rica,2014,12600.0,North America
+Cyprus,2014,7820.0,Europe
+Czech Republic,2014,105000.0,Europe
+Germany,2014,892000.0,Europe
+Denmark,2014,53800.0,Europe
+Dominican Republic,2014,23700.0,North America
+Ecuador,2014,52600.0,South America
+Egypt,2014,227000.0,Africa
+Spain,2014,289000.0,Europe
+Estonia,2014,17800.0,Europe
+Ethiopia,2014,18200.0,Africa
+Finland,2014,67200.0,Europe
+France,2014,450000.0,Europe
+United Kingdom,2014,596000.0,Europe
+Georgia,2014,10900.0,Europe
+Ghana,2014,22400.0,Africa
+Guinea,2014,2170.0,Africa
+Greece,2014,68500.0,Europe
+Guatemala,2014,18200.0,North America
+"Hong Kong, China",2014,125000.0,Asia
+Honduras,2014,11500.0,North America
+Croatia,2014,20800.0,Europe
+Hungary,2014,61700.0,Europe
+Indonesia,2014,413000.0,Asia
+India,2014,1990000.0,Asia
+Ireland,2014,43600.0,Europe
+Iran,2014,607000.0,Asia
+Israel,2014,79800.0,Asia
+Italy,2014,465000.0,Europe
+Jamaica,2014,8110.0,North America
+Jordan,2014,35000.0,Asia
+Japan,2014,1470000.0,Asia
+Kazakhstan,2014,208000.0,Asia
+Kenya,2014,23500.0,Africa
+Kyrgyz Republic,2014,16600.0,Asia
+Cambodia,2014,13700.0,Asia
+South Korea,2014,628000.0,Asia
+Kuwait,2014,79200.0,Asia
+Lao,2014,7670.0,Asia
+Sri Lanka,2014,29600.0,Asia
+Lithuania,2014,21700.0,Europe
+Luxembourg,2014,22700.0,Europe
+Latvia,2014,12400.0,Europe
+Morocco,2014,64000.0,Africa
+Madagascar,2014,4980.0,Africa
+Mexico,2014,528000.0,North America
+Malta,2014,5110.0,Europe
+Mongolia,2014,27900.0,Asia
+Mozambique,2014,17300.0,Africa
+Mauritius,2014,5370.0,Africa
+Malawi,2014,3180.0,Africa
+Malaysia,2014,246000.0,Asia
+Namibia,2014,9270.0,Africa
+Nigeria,2014,108000.0,Africa
+Nicaragua,2014,6020.0,North America
+Netherlands,2014,158000.0,Europe
+Norway,2014,49700.0,Europe
+Nepal,2014,14200.0,Asia
+New Zealand,2014,39900.0,Oceania
+Oman,2014,61700.0,Asia
+Pakistan,2014,190000.0,Asia
+Panama,2014,22100.0,North America
+Peru,2014,62200.0,South America
+Philippines,2014,129000.0,Asia
+Poland,2014,296000.0,Europe
+Portugal,2014,55300.0,Europe
+Paraguay,2014,9120.0,South America
+Qatar,2014,76100.0,Asia
+Romania,2014,77000.0,Europe
+Russia,2014,1410000.0,Asia
+Rwanda,2014,813.0,Africa
+Saudi Arabia,2014,600000.0,Asia
+Senegal,2014,10200.0,Africa
+Singapore,2014,122000.0,Asia
+El Salvador,2014,8700.0,North America
+Slovak Republic,2014,46000.0,Europe
+Slovenia,2014,17800.0,Europe
+Sweden,2014,71600.0,Europe
+Togo,2014,6970.0,Africa
+Thailand,2014,282000.0,Asia
+Trinidad and Tobago,2014,31200.0,North America
+Tunisia,2014,26000.0,Africa
+Turkey,2014,413000.0,Asia
+Taiwan,2014,266000.0,Asia
+Tanzania,2014,19700.0,Africa
+Uganda,2014,7410.0,Africa
+Ukraine,2014,248000.0,Europe
+Uruguay,2014,12400.0,South America
+United States,2014,5940000.0,North America
+Venezuela,2014,171000.0,South America
+Vietnam,2014,194000.0,Asia
+South Africa,2014,355000.0,Africa
+Zambia,2014,9080.0,Africa
+Zimbabwe,2014,12800.0,Africa
+Albania,2015,5660.0,Europe
+United Arab Emirates,2015,230000.0,Asia
+Argentina,2015,203000.0,South America
+Armenia,2015,5630.0,Europe
+Australia,2015,373000.0,Oceania
+Austria,2015,91500.0,Europe
+Azerbaijan,2015,40600.0,Europe
+Belgium,2015,179000.0,Europe
+Benin,2015,8000.0,Africa
+Burkina Faso,2015,4420.0,Africa
+Bangladesh,2015,96000.0,Asia
+Bulgaria,2015,41500.0,Europe
+Bahrain,2015,18600.0,Asia
+Belarus,2015,67300.0,Europe
+Bolivia,2015,17800.0,South America
+Brazil,2015,545000.0,South America
+Brunei,2015,7710.0,Asia
+Botswana,2015,16100.000000000002,Africa
+Canada,2015,595000.0,North America
+Switzerland,2015,122000.0,Europe
+Chile,2015,87800.0,South America
+China,2015,8350000.0,Asia
+Cote d'Ivoire,2015,14900.0,Africa
+Cameroon,2015,11800.0,Africa
+Colombia,2015,105000.0,South America
+Costa Rica,2015,12200.0,North America
+Cyprus,2015,7770.0,Europe
+Czech Republic,2015,106000.0,Europe
+Germany,2015,887000.0,Europe
+Denmark,2015,52400.0,Europe
+Dominican Republic,2015,25200.0,North America
+Ecuador,2015,49800.0,South America
+Egypt,2015,224000.0,Africa
+Spain,2015,300000.0,Europe
+Estonia,2015,16400.0,Europe
+Ethiopia,2015,19000.0,Africa
+Finland,2015,65500.0,Europe
+France,2015,451000.0,Europe
+United Kingdom,2015,580000.0,Europe
+Georgia,2015,11300.0,Europe
+Ghana,2015,22800.0,Africa
+Guinea,2015,2450.0,Africa
+Greece,2015,65500.0,Europe
+Guatemala,2015,19500.0,North America
+"Hong Kong, China",2015,120000.0,Asia
+Honduras,2015,11800.0,North America
+Croatia,2015,21000.0,Europe
+Hungary,2015,63400.0,Europe
+Indonesia,2015,533000.0,Asia
+India,2015,2110000.0,Asia
+Ireland,2015,42600.0,Europe
+Iran,2015,593000.0,Asia
+Israel,2015,82200.0,Asia
+Italy,2015,468000.0,Europe
+Jamaica,2015,8060.0,North America
+Jordan,2015,34600.0,Asia
+Japan,2015,1430000.0,Asia
+Kazakhstan,2015,217000.0,Asia
+Kenya,2015,25000.0,Africa
+Kyrgyz Republic,2015,16700.0,Asia
+Cambodia,2015,15000.0,Asia
+South Korea,2015,631000.0,Asia
+Kuwait,2015,82500.0,Asia
+Lao,2015,10600.0,Asia
+Sri Lanka,2015,30800.0,Asia
+Lithuania,2015,22300.0,Europe
+Luxembourg,2015,23400.0,Europe
+Latvia,2015,12400.0,Europe
+Morocco,2015,64700.0,Africa
+Madagascar,2015,5110.0,Africa
+Mexico,2015,516000.0,North America
+Malta,2015,4970.0,Europe
+Mongolia,2015,22800.0,Asia
+Mozambique,2015,15300.0,Africa
+Mauritius,2015,5370.0,Africa
+Malawi,2015,3160.0,Africa
+Malaysia,2015,242000.0,Asia
+Namibia,2015,9340.0,Africa
+Nigeria,2015,99200.0,Africa
+Nicaragua,2015,6610.0,North America
+Netherlands,2015,158000.0,Europe
+Norway,2015,49100.0,Europe
+Nepal,2015,12300.0,Asia
+New Zealand,2015,39600.0,Oceania
+Oman,2015,63800.0,Asia
+Pakistan,2015,196000.0,Asia
+Panama,2015,21700.0,North America
+Peru,2015,62500.0,South America
+Philippines,2015,138000.0,Asia
+Poland,2015,296000.0,Europe
+Portugal,2015,57600.0,Europe
+Paraguay,2015,9480.0,South America
+Qatar,2015,77000.0,Asia
+Romania,2015,77500.0,Europe
+Russia,2015,1380000.0,Asia
+Rwanda,2015,927.0,Africa
+Saudi Arabia,2015,615000.0,Asia
+Senegal,2015,10800.0,Africa
+Singapore,2015,121000.0,Asia
+El Salvador,2015,9090.0,North America
+Slovak Republic,2015,46900.0,Europe
+Slovenia,2015,18100.0,Europe
+Sweden,2015,71000.0,Europe
+Togo,2015,7200.0,Africa
+Thailand,2015,283000.0,Asia
+Trinidad and Tobago,2015,36900.0,North America
+Tunisia,2015,27400.0,Africa
+Turkey,2015,429000.0,Asia
+Taiwan,2015,263000.0,Asia
+Tanzania,2015,20100.0,Africa
+Uganda,2015,7820.0,Africa
+Ukraine,2015,225000.0,Europe
+Uruguay,2015,12100.0,South America
+United States,2015,5810000.0,North America
+Venezuela,2015,157000.0,South America
+Vietnam,2015,200000.0,Asia
+South Africa,2015,339000.0,Africa
+Zambia,2015,8930.0,Africa
+Zimbabwe,2015,13000.0,Africa
+Albania,2016,5500.0,Europe
+United Arab Emirates,2016,234000.0,Asia
+Argentina,2016,200000.0,South America
+Armenia,2016,5700.0,Europe
+Australia,2016,373000.0,Oceania
+Austria,2016,92100.0,Europe
+Azerbaijan,2016,40100.0,Europe
+Belgium,2016,176000.0,Europe
+Benin,2016,7920.0,Africa
+Burkina Faso,2016,4540.0,Africa
+Bangladesh,2016,98900.0,Asia
+Bulgaria,2016,39100.0,Europe
+Bahrain,2016,18700.0,Asia
+Belarus,2016,68000.0,Europe
+Bolivia,2016,19300.0,South America
+Brazil,2016,505000.0,South America
+Brunei,2016,7760.0,Asia
+Botswana,2016,17000.0,Africa
+Canada,2016,580000.0,North America
+Switzerland,2016,120000.0,Europe
+Chile,2016,89000.0,South America
+China,2016,8470000.0,Asia
+Cote d'Ivoire,2016,13700.0,Africa
+Cameroon,2016,12300.0,Africa
+Colombia,2016,108000.0,South America
+Costa Rica,2016,12300.0,North America
+Cyprus,2016,7860.0,Europe
+Czech Republic,2016,107000.0,Europe
+Germany,2016,891000.0,Europe
+Denmark,2016,53300.0,Europe
+Dominican Republic,2016,25900.0,North America
+Ecuador,2016,47400.0,South America
+Egypt,2016,242000.0,Africa
+Spain,2016,290000.0,Europe
+Estonia,2016,17300.0,Europe
+Ethiopia,2016,20200.0,Africa
+Finland,2016,67800.0,Europe
+France,2016,451000.0,Europe
+United Kingdom,2016,562000.0,Europe
+Georgia,2016,11500.0,Europe
+Ghana,2016,22400.0,Africa
+Guinea,2016,2750.0,Africa
+Greece,2016,64200.0,Europe
+Guatemala,2016,20100.0,North America
+"Hong Kong, China",2016,116000.0,Asia
+Honduras,2016,11600.0,North America
+Croatia,2016,21400.0,Europe
+Hungary,2016,63800.0,Europe
+Indonesia,2016,581000.0,Asia
+India,2016,2180000.0,Asia
+Ireland,2016,43800.0,Europe
+Iran,2016,579000.0,Asia
+Israel,2016,81200.0,Asia
+Italy,2016,466000.0,Europe
+Jamaica,2016,8350.0,North America
+Jordan,2016,33700.0,Asia
+Japan,2016,1410000.0,Asia
+Kazakhstan,2016,225000.0,Asia
+Kenya,2016,25800.0,Africa
+Kyrgyz Republic,2016,16100.000000000002,Asia
+Cambodia,2016,15700.0,Asia
+South Korea,2016,643000.0,Asia
+Kuwait,2016,87000.0,Asia
+Lao,2016,16100.000000000002,Asia
+Sri Lanka,2016,33700.0,Asia
+Lithuania,2016,22600.0,Europe
+Luxembourg,2016,23100.0,Europe
+Latvia,2016,12500.0,Europe
+Morocco,2016,64200.0,Africa
+Madagascar,2016,5250.0,Africa
+Mexico,2016,513000.0,North America
+Malta,2016,4820.0,Europe
+Mongolia,2016,23700.0,Asia
+Mozambique,2016,16600.0,Africa
+Mauritius,2016,5560.0,Africa
+Malawi,2016,3320.0,Africa
+Malaysia,2016,249000.0,Asia
+Namibia,2016,9640.0,Africa
+Nigeria,2016,95200.0,Africa
+Nicaragua,2016,6810.0,North America
+Netherlands,2016,156000.0,Europe
+Norway,2016,48800.0,Europe
+Nepal,2016,15000.0,Asia
+New Zealand,2016,38700.0,Oceania
+Oman,2016,63900.0,Asia
+Pakistan,2016,208000.0,Asia
+Panama,2016,21400.0,North America
+Peru,2016,65099.99999999999,South America
+Philippines,2016,140000.0,Asia
+Poland,2016,299000.0,Europe
+Portugal,2016,57200.0,Europe
+Paraguay,2016,10200.0,South America
+Qatar,2016,78000.0,Asia
+Romania,2016,75600.0,Europe
+Russia,2016,1360000.0,Asia
+Rwanda,2016,1050.0,Africa
+Saudi Arabia,2016,613000.0,Asia
+Senegal,2016,11000.0,Africa
+Singapore,2016,113000.0,Asia
+El Salvador,2016,9300.0,North America
+Slovak Republic,2016,47300.0,Europe
+Slovenia,2016,18500.0,Europe
+Sweden,2016,71300.0,Europe
+Togo,2016,7240.0,Africa
+Thailand,2016,281000.0,Asia
+Trinidad and Tobago,2016,38200.0,North America
+Tunisia,2016,27300.0,Africa
+Turkey,2016,450000.0,Asia
+Taiwan,2016,266000.0,Asia
+Tanzania,2016,19500.0,Africa
+Uganda,2016,8150.0,Africa
+Ukraine,2016,238000.0,Europe
+Uruguay,2016,12100.0,South America
+United States,2016,5700000.0,North America
+Venezuela,2016,146000.0,South America
+Vietnam,2016,197000.0,Asia
+South Africa,2016,344000.0,Africa
+Zambia,2016,9370.0,Africa
+Zimbabwe,2016,11800.0,Africa
+Albania,2017,5650.0,Europe
+United Arab Emirates,2017,236000.0,Asia
+Argentina,2017,202000.0,South America
+Armenia,2017,5560.0,Europe
+Australia,2017,379000.0,Oceania
+Austria,2017,94700.0,Europe
+Azerbaijan,2017,40400.0,Europe
+Belgium,2017,178000.0,Europe
+Benin,2017,8180.0,Africa
+Burkina Faso,2017,4970.0,Africa
+Bangladesh,2017,103000.0,Asia
+Bulgaria,2017,40700.0,Europe
+Bahrain,2017,18900.0,Asia
+Belarus,2017,69500.0,Europe
+Bolivia,2017,20200.0,South America
+Brazil,2017,513000.0,South America
+Brunei,2017,8050.0,Asia
+Botswana,2017,17200.0,Africa
+Canada,2017,592000.0,North America
+Switzerland,2017,121000.0,Europe
+Chile,2017,89800.0,South America
+China,2017,8560000.0,Asia
+Cote d'Ivoire,2017,14000.0,Africa
+Cameroon,2017,12700.0,Africa
+Colombia,2017,106000.0,South America
+Costa Rica,2017,12400.0,North America
+Cyprus,2017,8230.0,Europe
+Czech Republic,2017,107000.0,Europe
+Germany,2017,896000.0,Europe
+Denmark,2017,53000.0,Europe
+Dominican Republic,2017,25700.0,North America
+Ecuador,2017,46800.0,South America
+Egypt,2017,228000.0,Africa
+Spain,2017,303000.0,Europe
+Estonia,2017,18300.0,Europe
+Ethiopia,2017,21100.0,Africa
+Finland,2017,66700.0,Europe
+France,2017,459000.0,Europe
+United Kingdom,2017,557000.0,Europe
+Georgia,2017,11400.0,Europe
+Ghana,2017,23400.0,Africa
+Guinea,2017,3060.0,Africa
+Greece,2017,65800.0,Europe
+Guatemala,2017,20100.0,North America
+"Hong Kong, China",2017,119000.0,Asia
+Honduras,2017,11700.0,North America
+Croatia,2017,22100.0,Europe
+Hungary,2017,66300.0,Europe
+Indonesia,2017,602000.0,Asia
+India,2017,2260000.0,Asia
+Ireland,2017,42400.0,Europe
+Iran,2017,610000.0,Asia
+Israel,2017,82500.0,Asia
+Italy,2017,468000.0,Europe
+Jamaica,2017,8350.0,North America
+Jordan,2017,34600.0,Asia
+Japan,2017,1390000.0,Asia
+Kazakhstan,2017,237000.0,Asia
+Kenya,2017,27300.0,Africa
+Kyrgyz Republic,2017,16400.0,Asia
+Cambodia,2017,16200.0,Asia
+South Korea,2017,670000.0,Asia
+Kuwait,2017,86100.0,Asia
+Lao,2017,16500.0,Asia
+Sri Lanka,2017,35300.0,Asia
+Lithuania,2017,23000.0,Europe
+Luxembourg,2017,23600.0,Europe
+Latvia,2017,12900.0,Europe
+Morocco,2017,66500.0,Africa
+Madagascar,2017,5680.0,Africa
+Mexico,2017,518000.0,North America
+Malta,2017,5050.0,Europe
+Mongolia,2017,24500.0,Asia
+Mozambique,2017,16400.0,Africa
+Mauritius,2017,6010.0,Africa
+Malawi,2017,3420.0,Africa
+Malaysia,2017,251000.0,Asia
+Namibia,2017,9560.0,Africa
+Nigeria,2017,94500.0,Africa
+Nicaragua,2017,6770.0,North America
+Netherlands,2017,156000.0,Europe
+Norway,2017,49400.0,Europe
+Nepal,2017,15300.0,Asia
+New Zealand,2017,40300.0,Oceania
+Oman,2017,62200.0,Asia
+Pakistan,2017,224000.0,Asia
+Panama,2017,22000.0,North America
+Peru,2017,62300.0,South America
+Philippines,2017,149000.0,Asia
+Poland,2017,307000.0,Europe
+Portugal,2017,60700.0,Europe
+Paraguay,2017,10300.0,South America
+Qatar,2017,82400.0,Asia
+Romania,2017,75700.0,Europe
+Russia,2017,1370000.0,Asia
+Rwanda,2017,1090.0,Africa
+Saudi Arabia,2017,620000.0,Asia
+Senegal,2017,11800.0,Africa
+Singapore,2017,117000.0,Asia
+El Salvador,2017,9310.0,North America
+Slovak Republic,2017,48600.0,Europe
+Slovenia,2017,18700.0,Europe
+Sweden,2017,72000.0,Europe
+Togo,2017,7560.0,Africa
+Thailand,2017,287000.0,Asia
+Trinidad and Tobago,2017,37200.0,North America
+Tunisia,2017,28500.0,Africa
+Turkey,2017,471000.0,Asia
+Taiwan,2017,270000.0,Asia
+Tanzania,2017,20500.0,Africa
+Uganda,2017,8330.0,Africa
+Ukraine,2017,233000.0,Europe
+Uruguay,2017,12200.0,South America
+United States,2017,5690000.0,North America
+Venezuela,2017,140000.0,South America
+Vietnam,2017,197000.0,Asia
+South Africa,2017,341000.0,Africa
+Zambia,2017,9670.0,Africa
+Zimbabwe,2017,12500.0,Africa
